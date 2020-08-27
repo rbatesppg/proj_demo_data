@@ -1,0 +1,64 @@
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 5.653658,
+    "hits" : [
+      {
+        "_index" : "mutations",
+        "_type" : "_doc",
+        "_id" : "DIS-ee21453d13ac6d604878de3f477b24ee",
+        "_score" : 5.653658,
+        "_source" : {
+          "mutationId" : "DIS-ee21453d13ac6d604878de3f477b24ee",
+          "name" : "Neuronal Ceroid Lipofuscinosis 6",
+          "inheritance" : "Autosomal Recessive",
+          "breeds" : [
+            "Miniature Australian Shepherd",
+            "Aussiedoodle",
+            "Australian Shepherd",
+            "Toy Australian Shepherd",
+            "Miniature American Shepherd"
+          ],
+          "bioMutations" : [
+            "T>C, Chr30:32247875"
+          ],
+          "commonSymptoms" : "Neuronal ceroid lipofuscinosis 6 (NCL6) is a lysosomal storage disease affecting dogs. Affected dogs lack a specific enzyme necessary for normal metabolism. As a result, there is an abnormal accumulation of waste compounds primarily in the cells of the nervous system, leading to a range of nervous system disorders. Affected dogs present around 1.5 years of age with progressive neurologic disease. Symptoms include loss of vision, behavioral change, anxiety, lack of muscle coordination and abnormal gait. Affected dogs are often humanely euthanized by 2 years of age due to progression of the disease.",
+          "testingSummary" : "",
+          "detailedSummary" : "",
+          "testingTips" : "Genetic testing of the CLN6 gene will reliably determine whether a dog is a genetic carrier of neuronal ceroid lipofuscinosis 6. Neuronal ceroid lipofuscinosis 6 is inherited in an autosomal recessive manner in dogs meaning that they must receive two copies of the mutated gene (one from each parent) to develop the disease. In general, carrier dogs do not have features of the disease but when bred with another carrier of the same mutation, there is a risk of having affected pups. Each pup that is born to this pairing has a 25% chance of inheriting the disease and a 50% chance of inheriting one copy and being a carrier of the CLN6 gene mutation. Reliable genetic testing is important for determining breeding practices. In order to eliminate this mutation from breeding lines and to avoid the potential of producing affected pups, breeding of known carriers to each other is not recommended. Dogs that are not carriers of this mutation have no increased risk of having affected pups due to this mutation.",
+          "references" : [
+            "Katz ML,  Farias FH,  Sanders DN,  Zeng R,  Khan S,  Johnson GS,  O'Brien DP. A missense mutation in canine CLN6 in an Australian shepherd with neuronal ceroid lipofuscinosis. J Biomed Biotechnol. 2011; 2011:198042.[21234413]"
+          ],
+          "aliases" : [ ],
+          "genes" : [
+            "CLN6"
+          ],
+          "legacy" : true,
+          "alleles" : [
+            "AA",
+            "AB",
+            "BB"
+          ],
+          "meta" : {
+            "created" : "2019-05-16T10:35:32",
+            "createdBy" : "PRIME_DIRECTIVE",
+            "lastModified" : "2019-05-16T10:35:32",
+            "modifiedBy" : "PRIME_DIRECTIVE",
+            "deleted" : false
+          }
+        }
+      }
+    ]
+  }
+}

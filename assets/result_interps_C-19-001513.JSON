@@ -1,0 +1,2540 @@
+[
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "4N-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-8777c730-7db4-11e9-8597-e7a153da791a"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-8777c730-7db4-11e9-8597-e7a153da791a",
+          "interpretationId" : "IN-4.0-b8a25b2a-f552-4c9f-bccb-91cb0d650b73",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "2d-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "4N-CsG8B-DdfmYgOzZv5",
+          "genotype" : "BB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "6d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-b4b2eef0-7e36-11e9-bcaa-6b42d85367d7"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-b4b2eef0-7e36-11e9-bcaa-6b42d85367d7",
+          "interpretationId" : "IN-4.0-cf359402-ed72-44f1-b922-7bc6f2430599",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "2N-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "6d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "6t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-ee052880-7e36-11e9-bcaa-6b42d85367d7"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ee052880-7e36-11e9-bcaa-6b42d85367d7",
+          "interpretationId" : "IN-4.0-03061ea8-9092-40f1-afbb-2e8de4c41ca7",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Bt-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "6t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "69-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-3779f4e0-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-3779f4e0-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-5a88dd15-10ef-42a3-8a88-a5a3987ae85f",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "CN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "69-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "7N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-4d7e1870-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-4d7e1870-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-7736047b-f3a5-4d44-a1c6-995d0eccddae",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "y9-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "7N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "7d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-a2766a30-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a2766a30-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-f4c7894d-7b22-4401-ad7c-92badd8c8dc7",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "B9-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "7d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "7t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-b56648e0-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-b56648e0-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-74c18462-a78e-43d3-87a6-eabef6e11f23",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "zN-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "7t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "79-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-ea9c6db0-861b-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ea9c6db0-861b-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-d5655994-7c7d-4296-b049-cc4a10cce5e2",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Kd-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "79-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "8N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-e0d2ec40-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-e0d2ec40-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-1b9bcadb-8ccf-4bab-a9d7-f3447b09c468",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "9t-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "8N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "8d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-1da59d30-861c-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1da59d30-861c-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-9dd5f824-0afb-444e-9ae9-b2e55dee93d8",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "_d-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "8d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "8t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-2be33e70-861c-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-2be33e70-861c-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-2e918d6e-9e3c-4b9c-bfb1-b284548f800f",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "49-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "8t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "89-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-55c0dd60-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-55c0dd60-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-a7750c0a-1e5f-484c-afe6-b0e9ec230ad2",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "C9-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "89-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "9N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-646f8ff0-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-646f8ff0-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-4dbb025b-6150-4327-9923-3afc595bf740",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Id-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "9N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "9d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-737eb200-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-737eb200-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-cac9200e-d2e2-444f-9959-1e7eb73bcdd7",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "zt-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "9d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "9t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-7fb5fbf0-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7fb5fbf0-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-b3e33667-4433-42bc-9f4a-3420f1fecc37",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "DN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "9t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "99-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-9da4f2b0-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-9da4f2b0-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-428b089e-6c38-43f2-8242-99c44673ca9e",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "-N-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "99-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "-N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c3c05980-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c3c05980-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0678efcd-8425-4305-a64d-3ea83c38c32b",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "8N-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "-N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "-d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-8b554ba0-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-8b554ba0-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0d5c0edb-816b-4d91-91c5-e2c5118b6295",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "z9-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "-d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "-t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f2704100-861c-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-f2704100-861c-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-f41b8065-4ee1-4bf0-9bd9-3de4feee98a5",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "K9-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "-t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "-9-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-191ceb50-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-191ceb50-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-4c935c84-30ec-4d8b-90b4-eaee8435e7d6",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "yd-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "-9-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "_N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-0e53fe70-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-0e53fe70-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-305c4ac0-3601-47c4-8271-31f11ee9c85f",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "EN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "_N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "_d-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c53bb970-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c53bb970-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-7447d654-46b2-4c85-8fc5-7f6fbd7f647d",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Ed-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "_d-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "_t-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-5d3e36d0-861e-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-5d3e36d0-861e-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-d8a0c77f-eba2-4fa3-8c6e-63be75080329",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "89-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "_t-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "_9-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-ae3b1800-861e-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ae3b1800-861e-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-84eb1a77-db8e-492b-89f1-0779ffe17cf2",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "-9-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "_9-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "AN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-1349c2a0-861f-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1349c2a0-861f-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-5baa0551-08e1-49d0-b3fe-95bc5c9c98a5",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Ad-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "AN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ad-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-35a0ce70-861f-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-35a0ce70-861f-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0e13fa71-8ef1-4c8c-8160-f297909767c6",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "E9-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Ad-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "At-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-a79ea150-861f-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a79ea150-861f-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-f38c802f-5b8d-4e87-89cf-fd68bc869a32",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "-d-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "At-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "A9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c152d490-861f-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c152d490-861f-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-dfe4c09f-c402-4022-ad52-4543e9d8ae75",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "-t-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "A9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "BN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f09ae7f0-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-f09ae7f0-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-3d856172-f7b6-400d-a9c1-cff629b10a63",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "3N-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "BN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Bd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-27573460-8621-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-27573460-8621-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0d563658-b653-4622-9aa7-1fa8af9b7aac",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Cd-CsG8B-DdfmYgOhZn5",
+            "Jd-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Bd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Bt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f015e400-8621-11e9-8fb8-0b5b22320cab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-f015e400-8621-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-bd07d2f0-22c4-482f-84e1-d5d5e53add3b",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "D9-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Bt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "B9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-40d9d400-911c-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-40d9d400-911c-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-cb6367e4-a78b-439c-8346-b5d18a1017fa",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "v9-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "B9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "CN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-8b098700-911c-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-8b098700-911c-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-a30b5223-a5c4-4c48-88fd-39660473b4bb",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "_9-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "CN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Cd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-320944c0-9120-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-320944c0-9120-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-fbe045e8-92bd-4467-8b5a-deae03040210",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Bd-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Cd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ct-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-7ccc6480-9128-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7ccc6480-9128-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-49c615ca-60f5-4c59-8000-ebe92d819baa",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "yN-CsG8B-DdfmYgOhZf4",
+            "Jt-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Ct-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "C9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c437ecc0-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c437ecc0-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-4.0-7b3b8604-6c37-4767-9a31-9f80a8fd3df1",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "yt-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "C9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "DN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f6717030-8617-11e9-a14f-23a738799d69"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-f6717030-8617-11e9-a14f-23a738799d69",
+          "interpretationId" : "IN-INDETERMINANT",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "x9-CsG8B-DdfmYgOhZf4",
+            "At-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "DN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "??"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Dd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-5982f900-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-5982f900-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-bc4acfc9-e3d9-44f6-88ba-10b422a0e839",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "BN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Dd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Dt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-b34c5ad0-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-b34c5ad0-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-611b55d3-81d7-4daf-9c5a-a0073a5d84dc",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "A9-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Dt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "D9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-d1054d70-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-d1054d70-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-492725ec-b597-44bc-a02d-34993e71df23",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Kt-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "D9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AAF"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "EN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-02b7c690-861e-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-02b7c690-861e-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-eec2078a-8832-4528-98e2-c33574a55cf9",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "4t-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "EN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ed-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-dc4bf5d0-861d-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-dc4bf5d0-861d-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0caafc07-12aa-482e-b294-8b34bcf9a4c6",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "xN-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Ed-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AAF"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Et-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-1a838ac0-861e-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1a838ac0-861e-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-INDETERMINANT",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "9N-CsG8B-DdfmYgOhZj5",
+            "Fd-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Et-CsG8B-DdfmYgOzZz6",
+          "genotype" : "??"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "E9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-72c0f560-861e-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-72c0f560-861e-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-5be98323-455e-48f4-bf27-c682d39c3fed",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "_N-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "E9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "FN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-003cc990-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-003cc990-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-9a204f73-27ed-4cd6-a45b-af6359c3416d",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Ld-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "FN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Fd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-4078e110-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-4078e110-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-e893bada-915a-4fb6-802e-b111219e30b8",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Et-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Fd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ft-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-4b828070-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-4b828070-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-0ac41b94-faad-4163-afd0-60666f7ab40b",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "29-CsG8B-DdfmYgOhZf4",
+            "E9-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Ft-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "F9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-5fce93c0-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-5fce93c0-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-d635444a-8e04-4c30-8cc6-4c41cae6d19a",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "It-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "F9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "GN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-70616fa0-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-70616fa0-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-e2f7f3ee-55d6-4237-b707-16567cf77a9f",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "8t-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "GN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Gd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-9ef088b0-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-9ef088b0-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-INDETERMINANT",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "zd-CsG8B-DdfmYgOhZf4",
+            "JN-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Gd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "??"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Gt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-944e0f90-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-944e0f90-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-4.0-64d5d664-6e09-44e1-bd01-6db3b57be492",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Ct-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Gt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "G9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-a8bf5e20-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a8bf5e20-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-NO_CALL",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "I9-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "G9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "NC"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "HN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c924d320-8620-11e9-bc31-852d2715b69e"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c924d320-8620-11e9-bc31-852d2715b69e",
+          "interpretationId" : "IN-INDETERMINANT",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "J9-CsG8B-DdfmYgOhZr6",
+            "xt-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "HN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "??"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Hd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-6dac4540-8621-11e9-b38e-d5967baed685"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-6dac4540-8621-11e9-b38e-d5967baed685",
+          "interpretationId" : "IN-4.0-b79c39b4-4275-4d95-b5ab-9fb1a881b53f",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "5d-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Hd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ht-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-fd3df690-8621-11e9-8fb8-0b5b22320cab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-fd3df690-8621-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-25abe96b-a0dc-412e-ac72-0c1493af70c9",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "xd-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Ht-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "H9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-09f82c20-8622-11e9-8fb8-0b5b22320cab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-09f82c20-8622-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-5b976ee7-07e4-4601-ae6a-8692f86ee33b",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "_t-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "H9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Jt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-4689e3d0-8623-11e9-8fb8-0b5b22320cab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-4689e3d0-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-e374525c-acf8-486d-b946-96c4738dd4f5",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "AN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Jt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "PN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-2f256610-911d-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-2f256610-911d-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-8c269ea8-6274-425e-9f73-7cea4eb252aa",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "09-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "PN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Pd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-561e2a00-911c-11e9-95aa-fff3329d1d06"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-561e2a00-911c-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-b45ad8aa-93e0-4d95-994b-3626e144e5d7",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "wN-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Pd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "4t-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-0d7cfed0-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "interpretationId" : "IN-4.0-df5cb103-ccd8-4379-9e3f-b2f2e645cd65",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "w9-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "4t-CsG8B-DdfmYgOzZv5",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "49-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-236b2960-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "interpretationId" : "IN-4.0-142d347a-3bc8-454b-8a35-42745616e872",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "wt-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "49-CsG8B-DdfmYgOzZv5",
+          "genotype" : "AB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "5N-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-414eae70-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "interpretationId" : "IN-4.0-333bdd78-0c5a-4193-a902-1807e3aef233",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "99-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "5N-CsG8B-DdfmYgOzZv5",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "5d-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-5c6d9540-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "interpretationId" : "IN-FAILURE",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "wd-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "5d-CsG8B-DdfmYgOzZv5",
+          "genotype" : "Fail"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "59-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-1b2e9b70-32ff-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-58260050-7e36-11e9-bcaa-6b42d85367d7",
+          "interpretationId" : "IN-4.0-0038f92a-52f7-48d5-99d3-94ec83f0870d",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "3t-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "59-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "6N-CsG8B-DdfmYgOzZv6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-6c319720-32ff-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-58260050-7e36-11e9-bcaa-6b42d85367d7",
+          "interpretationId" : "IN-4.0-f5736f26-7b17-4e5a-a702-15cb527c2ac6",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "3d-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "6N-CsG8B-DdfmYgOzZv6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Id-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-3d819320-3300-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-bf958cd0-8622-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-026d8fc0-e245-4e95-b4ae-4ee260b34973",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "1t-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Id-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "It-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-7082ac50-3300-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-bf958cd0-8622-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-c5b1fbf6-77ef-4678-a397-087811a38b7e",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "19-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "It-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "JN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-7e6bef30-3304-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-3afc9580-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-66fa795b-6235-490a-81e8-4981108e584c",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "5N-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "JN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Jd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-93feda60-3304-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-3afc9580-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-b8a29538-0149-4c72-9d77-625ebee855af",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "1N-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Jd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "KN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-a1a6aed0-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-c94e6b15-0f34-4197-bbc1-4fe82ea63751",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "vd-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "KN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Kd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-c866e120-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-b44ff999-c45d-4c58-9c03-90bb1da4e653",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "vt-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Kd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Kt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f89133a0-3305-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-acfb6f65-50f4-4a8f-ab37-1a9f3c23c324",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "vN-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Kt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "K9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-0ea75890-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-509c9c4f-9100-4e2b-82a1-3c16fb7eee86",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "9d-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "K9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ld-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-e4d84320-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-7d172aee-1c18-49d5-b2bf-dc853e1c8866",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "LN-CsG8B-DdfmYgOhZr6",
+            "39-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Ld-CsG8B-DdfmYgOzZz6",
+          "genotype" : "BB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Lt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-f93398b0-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-86550c9d-e6f3-4411-aa25-52fee082f882",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "4N-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Lt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "L9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-303e0520-3307-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-e88013e0-a9c6-401d-b063-140fb2c9d9ef",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "4d-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "L9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Md-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-7365e760-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-0415bfc4-891c-4eba-bb95-2a7af34627f5",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "8d-CsG8B-DdfmYgOhZj5"
+          ],
+          "interpretedResultId" : "Md-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Mt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-8875bfe0-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-07613373-dc1b-4c63-ae51-b504a15b2f50",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "FN-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Mt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "M9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-9fb87df0-3306-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-139d260a-da7b-4b6a-abbe-d0b465aed164",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "2t-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "M9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Nd-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-2aae7620-32fe-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-0a5aadcf-225b-4b3a-a9f7-080c502838f4",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Gd-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Nd-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Nt-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-59e7d8f0-32fe-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-6db353a1-3b79-4a01-ade2-6fd16e085210",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "G9-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "Nt-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "N9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-749168b0-32fe-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-edbdd88e-b506-49c2-8884-f19156afbd91",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "F9-CsG8B-DdfmYgOhZr6"
+          ],
+          "interpretedResultId" : "N9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Od-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-0dc80700-3304-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-6bb8ccd0-3bde-4004-9678-dd115ecc3fed",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "0t-CsG8B-DdfmYgOhZf4"
+          ],
+          "interpretedResultId" : "Od-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "Ot-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-2ca09a70-3304-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-INDETERMINANT",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "0N-CsG8B-DdfmYgOhZf4",
+            "Dd-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "Ot-CsG8B-DdfmYgOzZz6",
+          "genotype" : "??"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "O9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "mutationIds" : [
+            "DIS-528ba270-3304-11ea-9031-631d3aeec8ab"
+          ],
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-c5768d9b-72be-4ea5-9a6b-00b319a42181",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "0d-CsG8B-DdfmYgOhZf4",
+            "Dt-CsG8B-DdfmYgOhZn5"
+          ],
+          "interpretedResultId" : "O9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "4d-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "interpretationId" : "IN-NO_CALL",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "4t-CsG8B-DdfmYgOzZv5",
+            "49-CsG8B-DdfmYgOzZv5",
+            "5N-CsG8B-DdfmYgOzZv5",
+            "5d-CsG8B-DdfmYgOzZv5"
+          ],
+          "interpretedResultId" : "4d-CsG8B-DdfmYgOzZv5",
+          "genotype" : "NC"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "5t-CsG8B-DdfmYgOzZv5",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-58260050-7e36-11e9-bcaa-6b42d85367d7",
+          "interpretationId" : "IN-4.0-0ef92b0c-2813-4434-9d0d-824ab34ea896",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "59-CsG8B-DdfmYgOzZv6",
+            "6N-CsG8B-DdfmYgOzZv6"
+          ],
+          "interpretedResultId" : "5t-CsG8B-DdfmYgOzZv5",
+          "genotype" : "AAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "IN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-bf958cd0-8622-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-8376fd24-8f06-4cdc-b72f-c758368a5919",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Id-CsG8B-DdfmYgOzZz6",
+            "It-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "IN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "I9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-3afc9580-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-ead627a5-1a18-44d9-ae76-1b65fb4c0f0d",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "JN-CsG8B-DdfmYgOzZz6",
+            "Jd-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "I9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "ABAB"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "J9-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-5fff43b5-19f7-4bf2-a7c1-6c2437e95a8a",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "KN-CsG8B-DdfmYgOzZz6",
+            "Kd-CsG8B-DdfmYgOzZz6",
+            "Kt-CsG8B-DdfmYgOzZz6",
+            "K9-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "J9-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AAAAAAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "LN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-d89ef015-b68b-4bcf-b755-041d21270f07",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Ld-CsG8B-DdfmYgOzZz6",
+            "Lt-CsG8B-DdfmYgOzZz6",
+            "L9-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "LN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "BBAAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "MN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab",
+          "interpretationId" : "IN-4.0-862b15c0-4f5a-4e8d-8d9a-f760732aef34",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Md-CsG8B-DdfmYgOzZz6",
+            "Mt-CsG8B-DdfmYgOzZz6",
+            "M9-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "MN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "AAAAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "NN-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-4.0-8045e431-9b7e-40a0-853f-14c74b10e915",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Nd-CsG8B-DdfmYgOzZz6",
+            "Nt-CsG8B-DdfmYgOzZz6",
+            "N9-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "NN-CsG8B-DdfmYgOzZz6",
+          "genotype" : "ABAAAA"
+        }
+      },
+      {
+        "_index" : "result_interpretations",
+        "_type" : "_doc",
+        "_id" : "ON-CsG8B-DdfmYgOzZz6",
+        "_score" : 5.974281,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-16T22:39:19",
+            "lastModified" : "2020-01-16T22:39:19",
+            "createdBy" : "SousChef",
+            "modifiedBy" : "SousChef"
+          },
+          "caseId" : "C-19-001513",
+          "mutationGroupId" : "MG-DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06",
+          "interpretationId" : "IN-NO_CALL",
+          "labDirectorReview" : { },
+          "medicalDirectorReview" : { },
+          "sourceIds" : [
+            "Od-CsG8B-DdfmYgOzZz6",
+            "Ot-CsG8B-DdfmYgOzZz6",
+            "O9-CsG8B-DdfmYgOzZz6"
+          ],
+          "interpretedResultId" : "ON-CsG8B-DdfmYgOzZz6",
+          "genotype" : "NC"
+        }
+      }
+    ]

@@ -1,0 +1,4273 @@
+[
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-21d04945b5572d6f4407415651632fe4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM1 Gangliosidosis (Shiba Inu Type)",
+            "mutationId" : "DIS-21d04945b5572d6f4407415651632fe4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-112518a5764a87b7651df0034a9c70a0",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dry Eye Curly Coat Syndrome",
+            "mutationId" : "DIS-112518a5764a87b7651df0034a9c70a0"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1682b7059bffd026a1322472778ac1aa",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Complement 3 Deficiency",
+            "mutationId" : "DIS-1682b7059bffd026a1322472778ac1aa"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e7222cae066099d84a63c16782348dff",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Rod-Cone Dysplasia 3",
+            "mutationId" : "DIS-e7222cae066099d84a63c16782348dff"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b04dfda54460e31c49b13fcbd244c4db",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Sensory Ataxic Neuropathy",
+            "mutationId" : "DIS-b04dfda54460e31c49b13fcbd244c4db"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4b1574127c17d6b92082212440fc3638",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Basenji Type)",
+            "mutationId" : "DIS-4b1574127c17d6b92082212440fc3638"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-764c1eb0483ffdb48ba79fa688a682c1",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis (Tibetan Terrier Type)",
+            "mutationId" : "DIS-764c1eb0483ffdb48ba79fa688a682c1"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-37567964d60e45f3d5aa83c19a628a2a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myotonia Congenita (Australian Cattle Dog Type)",
+            "mutationId" : "DIS-37567964d60e45f3d5aa83c19a628a2a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b87baaffa96fcace2977d8a873ba3505",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Nephritis",
+            "mutationId" : "DIS-b87baaffa96fcace2977d8a873ba3505"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-041968b1807b7077990b4c0602f9bbc8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis IIIA (Dachshund Type)",
+            "mutationId" : "DIS-041968b1807b7077990b4c0602f9bbc8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-64bdcabb4d85a9bf00a5c48b12a4fed8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Narcolepsy (Doberman Pinscher Type)",
+            "mutationId" : "DIS-64bdcabb4d85a9bf00a5c48b12a4fed8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a15ffa2ef5b5450b91b83de63f27ecb5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "P2RY12 Receptor Platelet Disorder",
+            "mutationId" : "DIS-a15ffa2ef5b5450b91b83de63f27ecb5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-395b0d5cd7e1ab9f0e04e3cae32a58c7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis IIIA (New Zealand Huntaway Type)",
+            "mutationId" : "DIS-395b0d5cd7e1ab9f0e04e3cae32a58c7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7a2e19f0280406b6ccfea8aec020e097",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis (Poodle Type)",
+            "mutationId" : "DIS-7a2e19f0280406b6ccfea8aec020e097"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-49cb53801fcb030f5baccba33f025c6d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 1",
+            "mutationId" : "DIS-49cb53801fcb030f5baccba33f025c6d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b7f5464775b851a27a8201bf2cf0f795",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ichthyosis (Golden Retriever Type)",
+            "mutationId" : "DIS-b7f5464775b851a27a8201bf2cf0f795"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bb313a9ef15a92efb5d14cb750ee9d9e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glanzmann's Thrombasthenia (Great Pyrenees Type)",
+            "mutationId" : "DIS-bb313a9ef15a92efb5d14cb750ee9d9e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-00766fcaa9be233548c85e4578926d2b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuroaxonal dystrophy",
+            "mutationId" : "DIS-00766fcaa9be233548c85e4578926d2b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bf261dede6280409f40981fc491bcfc5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Osteogenesis Imperfecta (Beagle Type)",
+            "mutationId" : "DIS-bf261dede6280409f40981fc491bcfc5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5f74cc952fff7188db9c71035f24d61e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Narcolepsy (Labrador Retriever Type)",
+            "mutationId" : "DIS-5f74cc952fff7188db9c71035f24d61e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-708fc27b46a79313555286a001b0a640",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Open Angle Glaucoma",
+            "mutationId" : "DIS-708fc27b46a79313555286a001b0a640"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7b05cc2fbf3e338cf3ec8a138ea670f4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Von Willebrand Disease III (Kooikerhondje Type)",
+            "mutationId" : "DIS-7b05cc2fbf3e338cf3ec8a138ea670f4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5ec441dc4acc4ae76206bfa7491f0bc5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Collie Eye Anomaly",
+            "mutationId" : "DIS-5ec441dc4acc4ae76206bfa7491f0bc5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c36b3699ae1fb94c4d9ef695a06b3f5c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Multidrug Resistance 1",
+            "mutationId" : "DIS-c36b3699ae1fb94c4d9ef695a06b3f5c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a1df4d9d7bfaf6cc659d8c4cf65c6afd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Fanconi Syndrome",
+            "mutationId" : "DIS-a1df4d9d7bfaf6cc659d8c4cf65c6afd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0db26d85a650d2d0443f387c51421ffe",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Osteogenesis Imperfecta (Dachshund Type)",
+            "mutationId" : "DIS-0db26d85a650d2d0443f387c51421ffe"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-447f5a9dfc71b1e15c007a1c61e18c0e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "H Locus (Harlequin, Great Dane Type)",
+            "mutationId" : "DIS-447f5a9dfc71b1e15c007a1c61e18c0e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5d2d170ae11816234d3d60d7fae1ffc3",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 8 (Setter Type)",
+            "mutationId" : "DIS-5d2d170ae11816234d3d60d7fae1ffc3"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-322f60d2bcd85e68b2e7d066c1bfe1a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Prekallikrein Deficiency",
+            "mutationId" : "DIS-322f60d2bcd85e68b2e7d066c1bfe1a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d9b265dad621d72aafb845fe02e55007",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Thrombopathia (Basset Hound Type)",
+            "mutationId" : "DIS-d9b265dad621d72aafb845fe02e55007"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bd5f01dcbcd04951ccf15fa7b7a6238b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Beagle Type)",
+            "mutationId" : "DIS-bd5f01dcbcd04951ccf15fa7b7a6238b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4b1900f45b0fbede3b61c0478db3a5ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 5 (Australian Cattle Dog/Border Collie Type)",
+            "mutationId" : "DIS-4b1900f45b0fbede3b61c0478db3a5ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ae2143598b486b458a62eb4bcd1a7d37",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Copper storage disease",
+            "mutationId" : "DIS-ae2143598b486b458a62eb4bcd1a7d37"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5852ab040a4264880207a68c18778a71",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Exercise-Induced Collapse",
+            "mutationId" : "DIS-5852ab040a4264880207a68c18778a71"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2bdf2de56bf0cd416e7702caee84e270",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Gallbladder Mucoceles",
+            "mutationId" : "DIS-2bdf2de56bf0cd416e7702caee84e270"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f3a28d7d90f4c9db88a1a1fd4f5e0e16",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Startle Disease",
+            "mutationId" : "DIS-f3a28d7d90f4c9db88a1a1fd4f5e0e16"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-40e0e9fb1b7faa93945f0d701bbf69af",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Thrombopathia (Newfoundland Type)",
+            "mutationId" : "DIS-40e0e9fb1b7faa93945f0d701bbf69af"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a405e6e423915b9cf603ad673106376b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Centronuclear Myopathy",
+            "mutationId" : "DIS-a405e6e423915b9cf603ad673106376b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5aae5e0cedfc6900fa13025a97eabd6c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cerebellar Ataxia (Finnish Hound Type)",
+            "mutationId" : "DIS-5aae5e0cedfc6900fa13025a97eabd6c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ee21453d13ac6d604878de3f477b24ee",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 6",
+            "mutationId" : "DIS-ee21453d13ac6d604878de3f477b24ee"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ff3aad03cb72161088ff1ebcc6238bfb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Stationary Night Blindness",
+            "mutationId" : "DIS-ff3aad03cb72161088ff1ebcc6238bfb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c68a926777f2bc149af3743462e08fba",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Osteogenesis Imperfecta (Golden Retriever Type)",
+            "mutationId" : "DIS-c68a926777f2bc149af3743462e08fba"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d87582856cbf20b22466dad51a992121",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Familial Nephropathy (English Springer Spaniel Type)",
+            "mutationId" : "DIS-d87582856cbf20b22466dad51a992121"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-82d83fdc2937f2f9bb677796037f8efe",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Familial Nephropathy (Cocker Spaniel Type)",
+            "mutationId" : "DIS-82d83fdc2937f2f9bb677796037f8efe"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8310ee578ecccb41d74d6066e5a95b5e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Von Willebrand Disease II",
+            "mutationId" : "DIS-8310ee578ecccb41d74d6066e5a95b5e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-865558b65001e9b469c3880bb841734d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Episodic Falling Syndrome",
+            "mutationId" : "DIS-865558b65001e9b469c3880bb841734d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7185ec86e4886baf43cb7e66c7b8323f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dystrophic Epidermolysis Bullosa",
+            "mutationId" : "DIS-7185ec86e4886baf43cb7e66c7b8323f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c3b1b2b14604f8e757062805730ccff1",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Alaskan Husky Encephalopathy",
+            "mutationId" : "DIS-c3b1b2b14604f8e757062805730ccff1"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7dfd30e0d622977aa477cdf15bc896e5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Golden Retriever 1",
+            "mutationId" : "DIS-7dfd30e0d622977aa477cdf15bc896e5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7888b7e160b89d4b58e79f68a58070ec",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Cataracts (Australian Shepherd Type)",
+            "mutationId" : "DIS-7888b7e160b89d4b58e79f68a58070ec"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f3023f75953f5bcd5400431ddb775718",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy",
+            "mutationId" : "DIS-f3023f75953f5bcd5400431ddb775718"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-965788cecb22b2df7873066e3ab92295",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Cataracts",
+            "mutationId" : "DIS-965788cecb22b2df7873066e3ab92295"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-aff67d6ecc7e4cd9c148ee67a0c8181f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Von Willebrand Disease III (Shetland Sheepdog Type)",
+            "mutationId" : "DIS-aff67d6ecc7e4cd9c148ee67a0c8181f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-31fb283688ecd2cbb6350b045dd3802b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glycogen Storage Disease IIIa",
+            "mutationId" : "DIS-31fb283688ecd2cbb6350b045dd3802b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6c92ec7c6bffdbadfd10c8d35d372663",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Multifocal Retinopathy 3",
+            "mutationId" : "DIS-6c92ec7c6bffdbadfd10c8d35d372663"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-215414c6f8f6e0628fe019c5b2d16c7f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ectodermal Dysplasia (Chesapeake Bay Retriever Type)",
+            "mutationId" : "DIS-215414c6f8f6e0628fe019c5b2d16c7f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0cbd3d0a41fcc796872d2e804bf3a252",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Pug Type)",
+            "mutationId" : "DIS-0cbd3d0a41fcc796872d2e804bf3a252"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-24f82e2d95f0fae94579a853d8af6b34",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Alaskan Malamute Polyneuropathy",
+            "mutationId" : "DIS-24f82e2d95f0fae94579a853d8af6b34"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e36b7a0d09051222a6448c7683d03c6c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM1 Gangliosidosis (Portuguese Water Dog Type)",
+            "mutationId" : "DIS-e36b7a0d09051222a6448c7683d03c6c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-da984f4e275e87c801fffcffb63e6440",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Generalized",
+            "mutationId" : "DIS-da984f4e275e87c801fffcffb63e6440"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-583c26b9da88cabc6f14b8449a69b5b3",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Musladin-Lueke Syndrome",
+            "mutationId" : "DIS-583c26b9da88cabc6f14b8449a69b5b3"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e300b280a5408e6cfdbb0b8987011fda",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Malignant hyperthermia",
+            "mutationId" : "DIS-e300b280a5408e6cfdbb0b8987011fda"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2914d9bbd313aee1f837a6dce576fea7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Amelogenesis Imperfecta",
+            "mutationId" : "DIS-2914d9bbd313aee1f837a6dce576fea7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9633207ad6f2323d7543255f92cfbb7f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Early Retinal Degeneration",
+            "mutationId" : "DIS-9633207ad6f2323d7543255f92cfbb7f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-19635128d58ce223e20ed2af65d1450c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Hypothyroidism with Goiter (Spanish Water Dog Type)",
+            "mutationId" : "DIS-19635128d58ce223e20ed2af65d1450c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-56f5d1100963c820e17ec4521022acf7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Canine Multiple System Degeneration (Chinese Crested Type)",
+            "mutationId" : "DIS-56f5d1100963c820e17ec4521022acf7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9bec3a9aab4cb5888b7f32f5cd2b7a09",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria (Labrador Retriever Type)",
+            "mutationId" : "DIS-9bec3a9aab4cb5888b7f32f5cd2b7a09"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c2bf0e9f3ae0c7a77e23f8b0fcf28608",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis (Japanese Chin Type)",
+            "mutationId" : "DIS-c2bf0e9f3ae0c7a77e23f8b0fcf28608"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5864cab62dc173b1b7af6c0b3daa1ffb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B (Lhasa Apso Type)",
+            "mutationId" : "DIS-5864cab62dc173b1b7af6c0b3daa1ffb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2b1ed4a111af44d9c76f2a3dd2c8434f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dilated Cardiomyopathy (Doberman Pinscher Type Risk Factor, Variant 1)",
+            "mutationId" : "DIS-2b1ed4a111af44d9c76f2a3dd2c8434f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-22b817c757e00e8985dd3bd76c5627f2",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria (Australian Cattle Dog Type)",
+            "mutationId" : "DIS-22b817c757e00e8985dd3bd76c5627f2"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c9b49e46d683a6600c325eb316152c00",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Von Willebrand Disease I",
+            "mutationId" : "DIS-c9b49e46d683a6600c325eb316152c00"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6fff1df6c4e8a7635567245c8859c80d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Von Willebrand Disease III (Scottish Terrier Type)",
+            "mutationId" : "DIS-6fff1df6c4e8a7635567245c8859c80d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-05f05a9d7b564ac10737e1c30d388970",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Osteochondrodysplasia",
+            "mutationId" : "DIS-05f05a9d7b564ac10737e1c30d388970"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-812e6fccbb11f6bca2b349a0232e7f84",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Intestinal Cobalamin Malabsorption (Border Collie Type)",
+            "mutationId" : "DIS-812e6fccbb11f6bca2b349a0232e7f84"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-554c31bbafc5f257c9ceffc533736048",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Muscular Dystrophy (Golden Retriever Type)",
+            "mutationId" : "DIS-554c31bbafc5f257c9ceffc533736048"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fa54e027b075fc89ce6ce862f2b241bd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Severe Combined Immunodeficiency Disease, X-Linked (Basset Hound Type)",
+            "mutationId" : "DIS-fa54e027b075fc89ce6ce862f2b241bd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-34af70a756f3511f9b45919ca9b5e85d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Vitamin D Dependent Rickets, Type II (Pomeranian Type)",
+            "mutationId" : "DIS-34af70a756f3511f9b45919ca9b5e85d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3b60e16122c2783e1c76d5596d6931db",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Terrier Type)",
+            "mutationId" : "DIS-3b60e16122c2783e1c76d5596d6931db"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d1b6c19eb091450478112e78e8a58ed8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Severe Combined Immunodeficiency Disease, X-Linked (Corgi Type)",
+            "mutationId" : "DIS-d1b6c19eb091450478112e78e8a58ed8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-85df01ffbde2268b7d1bbbee1fd37e05",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, PRA1 (Papillon Type)",
+            "mutationId" : "DIS-85df01ffbde2268b7d1bbbee1fd37e05"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-606939e2a2de4f40583e0cfd321b3bec",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 3",
+            "mutationId" : "DIS-606939e2a2de4f40583e0cfd321b3bec"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bb5dcb77885c5a99446e3a60bb30ad5c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Spinocerebellar Ataxia",
+            "mutationId" : "DIS-bb5dcb77885c5a99446e3a60bb30ad5c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-eddf7015735b9da43b84a0959251b0ec",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 2",
+            "mutationId" : "DIS-eddf7015735b9da43b84a0959251b0ec"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-48135659685e739a2d86bf49a1a1753d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pompe Disease",
+            "mutationId" : "DIS-48135659685e739a2d86bf49a1a1753d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c2530f8d7f3434c9d906ede30908aaa8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Late Onset Ataxia",
+            "mutationId" : "DIS-c2530f8d7f3434c9d906ede30908aaa8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-df23df9b55c7eb38ea523022265d80a7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cavalier King Charles Spaniel muscular dystrophy",
+            "mutationId" : "DIS-df23df9b55c7eb38ea523022265d80a7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-52842044f9abf626ac06f73aed28b016",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B (Group D)",
+            "mutationId" : "DIS-52842044f9abf626ac06f73aed28b016"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b95fa7114ab5117ab129868e6fbfcf7e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria (Miniature Pinscher Type)",
+            "mutationId" : "DIS-b95fa7114ab5117ab129868e6fbfcf7e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-511468f8fd22a12681e94dc7e9c61f2f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Spongiform Leukoencephalomyelopathy",
+            "mutationId" : "DIS-511468f8fd22a12681e94dc7e9c61f2f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-283847a86cb5e2a9ec7defc095c308cb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ichthyosis (Group A)",
+            "mutationId" : "DIS-283847a86cb5e2a9ec7defc095c308cb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ad6e2ad9f46039d41ea47e8e674f2e23",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Golden Retriever 2",
+            "mutationId" : "DIS-ad6e2ad9f46039d41ea47e8e674f2e23"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f6c21168bdcd24fb4689eb5b8b613d23",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Retinal Dysplasia/Oculoskeletal Dysplasia 2",
+            "mutationId" : "DIS-f6c21168bdcd24fb4689eb5b8b613d23"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7652f1255996eaae12ad3350e89e11dd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Basenji Type)",
+            "mutationId" : "DIS-7652f1255996eaae12ad3350e89e11dd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1dd15e1519ae98406bab02c882d00f85",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 1",
+            "mutationId" : "DIS-1dd15e1519ae98406bab02c882d00f85"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a13100e176b8e26d1248d1f4a5bed2d5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Subvalvular Aortic Stenosis",
+            "mutationId" : "DIS-a13100e176b8e26d1248d1f4a5bed2d5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f5a693fb2a2d3456e7c49bd25b7231d4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Retinal Dysplasia/Oculoskeletal Dysplasia 1",
+            "mutationId" : "DIS-f5a693fb2a2d3456e7c49bd25b7231d4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-971fe740de8cecec5103fef7afd22683",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E Locus (Yellow/Red)",
+            "mutationId" : "DIS-971fe740de8cecec5103fef7afd22683"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f6aae8a26a098718ba37dc37113db56d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E^m Locus (Melanistic Mask)",
+            "mutationId" : "DIS-f6aae8a26a098718ba37dc37113db56d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f049d94a4ec3a2e2b7ccf982406079af",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "K Locus (Dominant Black)",
+            "mutationId" : "DIS-f049d94a4ec3a2e2b7ccf982406079af"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0b53e1b8e67fc7855cab87aa003504e8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus (Brown) - b^c",
+            "mutationId" : "DIS-0b53e1b8e67fc7855cab87aa003504e8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-72cb9000abf7c7d12cb9289296b85de0",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Persistent Müllerian Duct Syndrome",
+            "mutationId" : "DIS-72cb9000abf7c7d12cb9289296b85de0"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-36f9ee42a4240ec60e5dcb7cc729cb99",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "A Locus (Agouti) - A^y",
+            "mutationId" : "DIS-36f9ee42a4240ec60e5dcb7cc729cb99"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-02090cbfb29fe0cf10bdc2f7bb6b3d5e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Skeletal Dysplasia 2",
+            "mutationId" : "DIS-02090cbfb29fe0cf10bdc2f7bb6b3d5e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1d692e6ca47d91b48c36795080bd73cc",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Duchenne-type muscular dystrophy",
+            "mutationId" : "DIS-1d692e6ca47d91b48c36795080bd73cc"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3541adfb0a832ef0d8fcba5a97aaa685",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Factor XI deficiency (Exon 8)",
+            "mutationId" : "DIS-3541adfb0a832ef0d8fcba5a97aaa685"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e31c2658d491ee20fef82c29e0b7ab15",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Factor XI deficiency (Exon 6)",
+            "mutationId" : "DIS-e31c2658d491ee20fef82c29e0b7ab15"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1cb020f82e27d198a56e6fbbd673631e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pembroke Welsh Corgi Duchenne Muscular Dystrophy",
+            "mutationId" : "DIS-1cb020f82e27d198a56e6fbbd673631e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ba44dbb48d8d9c85dc08085676f52da6",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "M Locus (Merle) - A(m) and B(M) Allele Detection and Size",
+            "mutationId" : "DIS-ba44dbb48d8d9c85dc08085676f52da6"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e6c035f7420aae7566b82d3be2e18bed",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus (Long Hair/Fluffy) - Lh^1",
+            "mutationId" : "DIS-e6c035f7420aae7566b82d3be2e18bed"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6445c363b3fb89370cc38718ebe874b4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus (Brown) - b^s",
+            "mutationId" : "DIS-6445c363b3fb89370cc38718ebe874b4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a5729f572df3313435f947ef941fa549",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus (Brown) - b^d",
+            "mutationId" : "DIS-a5729f572df3313435f947ef941fa549"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-03769e186edb26fa4edd42fd00d7669d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Rod-Cone Dysplasia 2",
+            "mutationId" : "DIS-03769e186edb26fa4edd42fd00d7669d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-16641eefc981430237f371ff2cedeb5c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Footpad Hyperkeratosis (Irish Terrier and Kromfohrländer Type)",
+            "mutationId" : "DIS-16641eefc981430237f371ff2cedeb5c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f975e8da24e1b436f1ddfbfe50efdf6b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Intestinal Cobalamin Malabsorption (Beagle Type)",
+            "mutationId" : "DIS-f975e8da24e1b436f1ddfbfe50efdf6b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-33f0019ec1653a00baf868700c9f829d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 8 (Australian Shepherd Type)",
+            "mutationId" : "DIS-33f0019ec1653a00baf868700c9f829d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-06fcc9cb7c6be5f4ebbc66c810e510c4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myostatin Deficiency (Whippet and Longhaired Whippet Type)",
+            "mutationId" : "DIS-06fcc9cb7c6be5f4ebbc66c810e510c4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4ac00d8f083c84c5eff5d6a0e0f3bf02",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hr Locus (FOXI3 Hairless Gene Test, Mexican Hairless, Peruvian Hairless and Chinese Crested Type)",
+            "mutationId" : "DIS-4ac00d8f083c84c5eff5d6a0e0f3bf02"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d3a3c5a9f24399b4b44494faf5f0caed",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Juvenile Laryngeal Paralysis and Polyneuropathy",
+            "mutationId" : "DIS-d3a3c5a9f24399b4b44494faf5f0caed"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3e49feb704097736dab07c94347f58fe",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Spinal Dysraphism",
+            "mutationId" : "DIS-3e49feb704097736dab07c94347f58fe"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bb17ea3f5de89b52cbf9bcd6dddabcf1",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Copper Toxicosis (Labrador Retriever Type)",
+            "mutationId" : "DIS-bb17ea3f5de89b52cbf9bcd6dddabcf1"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-60c7fac948749768ec865bea85691ea4",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Juvenile Myoclonic Epilepsy (Rhodesian Ridgeback Type)",
+            "mutationId" : "DIS-60c7fac948749768ec865bea85691ea4"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fd9abdf52fc1c9490d0f1d58b94d2296",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Copper Toxicosis (Labrador Retriever Type) ATP7A",
+            "mutationId" : "DIS-fd9abdf52fc1c9490d0f1d58b94d2296"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7e759afb8204e76843b6b941409d0003",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Leukocyte Adhesion Deficiency, Type III",
+            "mutationId" : "DIS-7e759afb8204e76843b6b941409d0003"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-394532d04047b19a917404cac9f70095",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cu Locus (Curly Hair)",
+            "mutationId" : "DIS-394532d04047b19a917404cac9f70095"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-cfa09e6478062e6d5a9e30b60c5a8ac1",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B (Group C)",
+            "mutationId" : "DIS-cfa09e6478062e6d5a9e30b60c5a8ac1"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e60c9420c72bce3cf16cc8310284d083",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Copper Toxicosis (Labrador Retriever Type) ATP7B",
+            "mutationId" : "DIS-e60c9420c72bce3cf16cc8310284d083"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f624b72e7ce29edfa50edac770f3726b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "T Locus (Natural Bobtail)",
+            "mutationId" : "DIS-f624b72e7ce29edfa50edac770f3726b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-516a330ac4f8256332c53347e98e9750",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Degenerative Myelopathy (Bernese Mountain Dog Variant)",
+            "mutationId" : "DIS-516a330ac4f8256332c53347e98e9750"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-516619cb6ed08e79e3dfedbc4a1a8eed",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "S Locus (White Spotting, Parti, or Piebald)",
+            "mutationId" : "DIS-516619cb6ed08e79e3dfedbc4a1a8eed"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1b52a978124c20c5f628eb3c6300437f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E^g Locus (Grizzle, Afghan Hound Type)",
+            "mutationId" : "DIS-1b52a978124c20c5f628eb3c6300437f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9e41fbb051427604f2ecbde471c4afbf",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ichthyosis (American Bulldog Type)",
+            "mutationId" : "DIS-9e41fbb051427604f2ecbde471c4afbf"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-eaf72720ccbdcb18eee6d9ac41178d02",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Leukocyte Adhesion Deficiency, Type I",
+            "mutationId" : "DIS-eaf72720ccbdcb18eee6d9ac41178d02"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-11282d4c9b8b2213eea6a8c3299ab579",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "A^s Locus (Saddle Tan)",
+            "mutationId" : "DIS-11282d4c9b8b2213eea6a8c3299ab579"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3cd7130aeafb9bb579a777c7c16dffbd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cyclic Neutropenia",
+            "mutationId" : "DIS-3cd7130aeafb9bb579a777c7c16dffbd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f5e84ddad39e5e9c9c1a812dbe49232f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia A (German Shepherd Dog, Type 1)",
+            "mutationId" : "DIS-f5e84ddad39e5e9c9c1a812dbe49232f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6fb39d50601e6d32c0520081955d3eeb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Sex Determination - AMELXY",
+            "mutationId" : "DIS-6fb39d50601e6d32c0520081955d3eeb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7453e4e2f548de104115552e20c889ee",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polyneuropathy (Leonberger and Saint Bernard Type)",
+            "mutationId" : "DIS-7453e4e2f548de104115552e20c889ee"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a431f3e740cbb68f251cfc09b4e0acdd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cleft Palate 1",
+            "mutationId" : "DIS-a431f3e740cbb68f251cfc09b4e0acdd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-64aa2fdd467fb69684b758547a32ce49",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "IC Locus (Improper Coat/Furnishings)",
+            "mutationId" : "DIS-64aa2fdd467fb69684b758547a32ce49"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-928fd4601963cbcc21caa2e11dadd70c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Intestinal Cobalamin Malabsorption (Australian Shepherd Type)",
+            "mutationId" : "DIS-928fd4601963cbcc21caa2e11dadd70c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0efc88c0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 1",
+            "mutationId" : "DIS-0efc88c0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus (Brown) - b^a",
+            "mutationId" : "DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b0d56359265378b0d21015abc8fd1a96",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Open Angle Glaucoma (Basset Hound Type)",
+            "mutationId" : "DIS-b0d56359265378b0d21015abc8fd1a96"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dce2f3782bdf0ffed5954d06f5ccb50c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Shetland Sheepdog Type)",
+            "mutationId" : "DIS-dce2f3782bdf0ffed5954d06f5ccb50c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fc40969f72611e59b903860020a1c61b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Sensory Neuropathy (Border Collie Type) - A(WT) Allele Detection Only",
+            "mutationId" : "DIS-fc40969f72611e59b903860020a1c61b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-277e786269bc321baeb7c0a5302aa7e0",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Fucosidosis",
+            "mutationId" : "DIS-277e786269bc321baeb7c0a5302aa7e0"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7531c3f0-5cc1-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Adult Paroxysmal Dyskinesia",
+            "mutationId" : "DIS-7531c3f0-5cc1-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-129ae530-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 10",
+            "mutationId" : "DIS-129ae530-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-15e10f80-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 11",
+            "mutationId" : "DIS-15e10f80-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-18df5b60-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 12",
+            "mutationId" : "DIS-18df5b60-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1c7bbc00-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 13",
+            "mutationId" : "DIS-1c7bbc00-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2051f150-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 15",
+            "mutationId" : "DIS-2051f150-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-29b44950-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 16 and Brachycephaly 1",
+            "mutationId" : "DIS-29b44950-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-38ff8a00-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 3",
+            "mutationId" : "DIS-38ff8a00-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6bc6a770-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Weight 4 (Beagle Type)",
+            "mutationId" : "DIS-6bc6a770-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-672c10b0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Weight 3 (Female Beagle Type)",
+            "mutationId" : "DIS-672c10b0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5f67d850-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Weight 2 (Labrador Retriever Type)",
+            "mutationId" : "DIS-5f67d850-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-46a69090-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 7",
+            "mutationId" : "DIS-46a69090-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-80cfa220-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Brachycephaly 5",
+            "mutationId" : "DIS-80cfa220-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7856bfc0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Brachycephaly",
+            "mutationId" : "DIS-7856bfc0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7ca2e860-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Brachycephaly 4",
+            "mutationId" : "DIS-7ca2e860-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-796baad0-5cc6-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Catalase Deficiency",
+            "mutationId" : "DIS-796baad0-5cc6-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0aaefc60-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cerebellar Cortical Degeneration",
+            "mutationId" : "DIS-0aaefc60-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-975d6aac27b421e38c03700fa73a8420",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Hypothyroidism with Goiter (Terrier Type)",
+            "mutationId" : "DIS-975d6aac27b421e38c03700fa73a8420"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3c5b5f30-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 4",
+            "mutationId" : "DIS-3c5b5f30-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4d58e3c0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 9",
+            "mutationId" : "DIS-4d58e3c0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-43456430-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 6",
+            "mutationId" : "DIS-43456430-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4965b090-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 8",
+            "mutationId" : "DIS-4965b090-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5983aa90-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Weight 1 (Labrador Retriever Type)",
+            "mutationId" : "DIS-5983aa90-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d5f6f980-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L-2-Hydroxyglutaric Aciduria (Yorkshire Terrier Type)",
+            "mutationId" : "DIS-d5f6f980-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8489f160-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Factor XI Deficiency",
+            "mutationId" : "DIS-8489f160-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c3455c50-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus (Long Hair/Fluffy) - Lh^2",
+            "mutationId" : "DIS-c3455c50-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-eb25f2c0-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ligneous Membranitis",
+            "mutationId" : "DIS-eb25f2c0-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-afcac9d0-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ichthyosis (Great Dane Type)",
+            "mutationId" : "DIS-afcac9d0-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-68267ca0-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dental Hypomineralization",
+            "mutationId" : "DIS-68267ca0-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1c4134f0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 1 (Cane Corso Type)",
+            "mutationId" : "DIS-1c4134f0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4028bae0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 5",
+            "mutationId" : "DIS-4028bae0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ef155560-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Lundehund Syndrome",
+            "mutationId" : "DIS-ef155560-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-32a05fe0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 17 and Brachycephaly 2",
+            "mutationId" : "DIS-32a05fe0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-df31cc50-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Lagotto Storage Disorder",
+            "mutationId" : "DIS-df31cc50-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-35d1a2a0-5cc3-11e9-9d39-4fedb0db4a0a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Body Size 18",
+            "mutationId" : "DIS-35d1a2a0-5cc3-11e9-9d39-4fedb0db4a0a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-75076980-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cone Degeneration (German Shepherd Dog Type)",
+            "mutationId" : "DIS-75076980-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-37bb1ef0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Chondrodysplasia (CDPA)",
+            "mutationId" : "DIS-37bb1ef0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7b7dc520-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cone Degeneration (Labrador Retriever Type)",
+            "mutationId" : "DIS-7b7dc520-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-58d86050-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polyneuropathy with Ocular Abnormalities and Neuronal Vacuolation",
+            "mutationId" : "DIS-58d86050-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-92148bc0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Craniomandibular Osteopathy",
+            "mutationId" : "DIS-92148bc0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8a939df0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Myasthenic Syndrome (Jack Russell Terrier Type)",
+            "mutationId" : "DIS-8a939df0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ae1dd71e93130d54d2a78a11fa711031",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Nasal Parakeratosis",
+            "mutationId" : "DIS-ae1dd71e93130d54d2a78a11fa711031"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8fa2fde67815ae38cdedff90acc80385",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neonatal Encephalopathy with Seizures",
+            "mutationId" : "DIS-8fa2fde67815ae38cdedff90acc80385"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-14a2cc58219d9f5250832e3f0f4645eb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Degenerative Myelopathy (Common Variant)",
+            "mutationId" : "DIS-14a2cc58219d9f5250832e3f0f4645eb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-664b50464a7cf0257d65203f8813e7d8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Thrombopathia (American Eskimo Dog Type)",
+            "mutationId" : "DIS-664b50464a7cf0257d65203f8813e7d8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f8c669a0-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Macular Corneal Dystrophy (Labrador Retriever Type)",
+            "mutationId" : "DIS-f8c669a0-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-be2b51d0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "D Locus (Dilute) - d^2",
+            "mutationId" : "DIS-be2b51d0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-07b6e020-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myotubular Myopathy 1 (Rottweiler Type)",
+            "mutationId" : "DIS-07b6e020-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-29fa00b0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cerebellar Degeneration",
+            "mutationId" : "DIS-29fa00b0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3f56aec0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Peridontal Disease Risk",
+            "mutationId" : "DIS-3f56aec0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-520a6ed0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polydactyly",
+            "mutationId" : "DIS-520a6ed0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-338886e0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 7",
+            "mutationId" : "DIS-338886e0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-42eb2020-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Peridontal Disease Risk Modifier",
+            "mutationId" : "DIS-42eb2020-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6e103330-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Open Angle Glaucoma (Basset Fauve de Bretagne Type)",
+            "mutationId" : "DIS-6e103330-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-71c1c980-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Open Angle Glaucoma (Norwegian Elkhound Type)",
+            "mutationId" : "DIS-71c1c980-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-80b32a60-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, PRA3 (Tibetan Terrier and Spaniel Type)",
+            "mutationId" : "DIS-80b32a60-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8e95da60-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, X-Linked 1",
+            "mutationId" : "DIS-8e95da60-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-95e94f90-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Protein Losing Nephropathy (Variant 1)",
+            "mutationId" : "DIS-95e94f90-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9a2b8d20-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Protein Losing Nephropathy (Variant 2)",
+            "mutationId" : "DIS-9a2b8d20-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a9a4e2b0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Shar-Pei Autoinflammatory Disease",
+            "mutationId" : "DIS-a9a4e2b0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-556077a0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polyneuropathy (Leonberger Type 2)",
+            "mutationId" : "DIS-556077a0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ea9c6db0-861b-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Adrenal Hyperplasia (Cat)",
+            "mutationId" : "DIS-ea9c6db0-861b-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f6717030-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Brachycephaly (Burmese Type) (Cat)",
+            "mutationId" : "DIS-f6717030-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e0d2ec40-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Autoimmune Lymphoproliferative Syndrome (Cat)",
+            "mutationId" : "DIS-e0d2ec40-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-58260050-7e36-11e9-bcaa-6b42d85367d7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Amber and Russet Coat Color - E Locus (Cat)",
+            "mutationId" : "DIS-58260050-7e36-11e9-bcaa-6b42d85367d7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c437ecc0-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 6 (Cat)",
+            "mutationId" : "DIS-c437ecc0-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a2766a30-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 4 (Siamese Type 1) (Cat)",
+            "mutationId" : "DIS-a2766a30-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4d7e1870-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 3 (Cat)",
+            "mutationId" : "DIS-4d7e1870-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1da59d30-861c-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Myasthenic Syndrome (Cat)",
+            "mutationId" : "DIS-1da59d30-861c-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b4b2eef0-7e36-11e9-bcaa-6b42d85367d7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dilute Coat Color - D Locus (Cat)",
+            "mutationId" : "DIS-b4b2eef0-7e36-11e9-bcaa-6b42d85367d7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Long Hair - L Locus (Cat)",
+            "mutationId" : "DIS-7e09d1d0-7e35-11e9-b5ef-1555aef229bb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2be33e70-861c-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type 1A (Cat)",
+            "mutationId" : "DIS-2be33e70-861c-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b9f9a420-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Urolithiasis (Native American Indian Dog Type)",
+            "mutationId" : "DIS-b9f9a420-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d0617e00-5d39-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dog Profile",
+            "mutationId" : "DIS-d0617e00-5d39-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8777c730-7db4-11e9-8597-e7a153da791a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Agouti Coat Color - A Locus (Cat)",
+            "mutationId" : "DIS-8777c730-7db4-11e9-8597-e7a153da791a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c747f280-5e70-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Sex Determination - ZFXY",
+            "mutationId" : "DIS-c747f280-5e70-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3779f4e0-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 2 (Cat)",
+            "mutationId" : "DIS-3779f4e0-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ee052880-7e36-11e9-bcaa-6b42d85367d7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 1 (Cat)",
+            "mutationId" : "DIS-ee052880-7e36-11e9-bcaa-6b42d85367d7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b1ed1820-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Spondylocostal Dysostosis",
+            "mutationId" : "DIS-b1ed1820-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bf78ce80-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Van Den Ende-Gupta Syndrome",
+            "mutationId" : "DIS-bf78ce80-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1cb8af70-5d3b-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dog Profile - Sex",
+            "mutationId" : "DIS-1cb8af70-5d3b-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1a838ac0-861e-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypertrophic Cardiomyopathy (Maine Coon Type) (Cat)",
+            "mutationId" : "DIS-1a838ac0-861e-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ae3b1800-861e-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypotrichosis with Short Life Expectancy (Cat)",
+            "mutationId" : "DIS-ae3b1800-861e-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "ABC Blood Group System (Cat)",
+            "mutationId" : "DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-72c0f560-861e-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypokalemic Periodic Paralysis (Cat)",
+            "mutationId" : "DIS-72c0f560-861e-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Coat Type - Curly (Devon Rex, Selkirk Rex Type) or Hairless (Sphynx Type) - R Locus (Cat)",
+            "mutationId" : "DIS-e193b8d0-911b-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5d3e36d0-861e-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypertrophic Cardiomyopathy (Ragdoll Type) (Cat)",
+            "mutationId" : "DIS-5d3e36d0-861e-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b56648e0-8617-11e9-a14f-23a738799d69",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Intermittent Porphyria, Variant 5 (Siamese Type 2) (Cat)",
+            "mutationId" : "DIS-b56648e0-8617-11e9-a14f-23a738799d69"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4078e110-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis Type VII, Variant 1 (Cat)",
+            "mutationId" : "DIS-4078e110-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c924d320-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polycystic Kidney Disease (Cat)",
+            "mutationId" : "DIS-c924d320-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-003cc990-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis Type VI (Mild Form) (Cat)",
+            "mutationId" : "DIS-003cc990-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-70616fa0-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myotonia Congenita (Cat)",
+            "mutationId" : "DIS-70616fa0-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-561e2a00-911c-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Erythropoietic Porphyria, Variant 2 (Cat)",
+            "mutationId" : "DIS-561e2a00-911c-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-40d9d400-911c-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Erythropoietic Porphyria, Variant 1 (Cat)",
+            "mutationId" : "DIS-40d9d400-911c-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4b828070-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis Type VII, Variant 2 (Cat)",
+            "mutationId" : "DIS-4b828070-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-944e0f90-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Niemann-Pick C1 Disease, Variant 1 (Cat)",
+            "mutationId" : "DIS-944e0f90-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a8bf5e20-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Niemann-Pick C2 Disease (Cat)",
+            "mutationId" : "DIS-a8bf5e20-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7fb5fbf0-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type B, Variant 4 (Cat)",
+            "mutationId" : "DIS-7fb5fbf0-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dfd843e6563d8e2bd4535a4becb3e4a9",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Canine Multiple System Degeneration (Kerry Blue Terrier Type)",
+            "mutationId" : "DIS-dfd843e6563d8e2bd4535a4becb3e4a9"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8b554ba0-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type B, Variant 5 (Cat)",
+            "mutationId" : "DIS-8b554ba0-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-88c808893dcec860ba84758b444ffc15",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "A Locus (Agouti) - a",
+            "mutationId" : "DIS-88c808893dcec860ba84758b444ffc15"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5fce93c0-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Multiple Drug Resistance (Cat)",
+            "mutationId" : "DIS-5fce93c0-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Tabby Coat Color Pattern - Mc Locus (Cat)",
+            "mutationId" : "DIS-1a8ec6a0-8624-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3afc9580-8623-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dominant White, White Spotting and Gloves - W Locus (Cat)",
+            "mutationId" : "DIS-3afc9580-8623-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pointed Coat Color and Albinism - C Locus (Cat)",
+            "mutationId" : "DIS-a1596b00-8623-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fd3df690-8621-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Vitamin D-dependent Rickets, Type IA, Variant 1 (Cat)",
+            "mutationId" : "DIS-fd3df690-8621-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-55c0dd60-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type B, Variant 1 (Cat)",
+            "mutationId" : "DIS-55c0dd60-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5982f900-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis, Type II (Japanese Domestic Type) (Cat)",
+            "mutationId" : "DIS-5982f900-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1349c2a0-861f-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Persian Type) (Cat)",
+            "mutationId" : "DIS-1349c2a0-861f-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c152d490-861f-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis Type VI (Siamese Type) (Cat)",
+            "mutationId" : "DIS-c152d490-861f-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a79ea150-861f-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis Type I (Cat)",
+            "mutationId" : "DIS-a79ea150-861f-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-35a0ce70-861f-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Feline Leukocyte Adhesion Deficiency, Type 1 (Cat)",
+            "mutationId" : "DIS-35a0ce70-861f-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-09f82c20-8622-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Vitamin D-dependent Rickets, Type IA, Variant 2 (Cat)",
+            "mutationId" : "DIS-09f82c20-8622-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f015e400-8621-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Spinal Muscular Atrophy (Cat)",
+            "mutationId" : "DIS-f015e400-8621-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-27573460-8621-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Cat)",
+            "mutationId" : "DIS-27573460-8621-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4689e3d0-8623-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Folded Ears with Osteochondrodysplasia (Cat)",
+            "mutationId" : "DIS-4689e3d0-8623-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bf958cd0-8622-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Brown Coat Color - B Locus (Cat)",
+            "mutationId" : "DIS-bf958cd0-8622-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9ef088b0-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Niemann-Pick C1 Disease, Variant 2 (Cat)",
+            "mutationId" : "DIS-9ef088b0-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6dac4540-8621-11e9-b38e-d5967baed685",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Abyssinian Type) (Cat)",
+            "mutationId" : "DIS-6dac4540-8621-11e9-b38e-d5967baed685"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dc4bf5d0-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B, Variant 2 (Cat)",
+            "mutationId" : "DIS-dc4bf5d0-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2f256610-911d-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Curly Coat (Cornish Rex Type) (Cat)",
+            "mutationId" : "DIS-2f256610-911d-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-430a0bd0-86e7-11e9-ba55-170e7189e868",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Finches)",
+            "mutationId" : "DIS-430a0bd0-86e7-11e9-ba55-170e7189e868"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-631db750-86e7-11e9-ba55-170e7189e868",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Pigeons)",
+            "mutationId" : "DIS-631db750-86e7-11e9-ba55-170e7189e868"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-70ced000-86e7-11e9-ba55-170e7189e868",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Chickens)",
+            "mutationId" : "DIS-70ced000-86e7-11e9-ba55-170e7189e868"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4ee63d70-86e7-11e9-ba55-170e7189e868",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Canaries)",
+            "mutationId" : "DIS-4ee63d70-86e7-11e9-ba55-170e7189e868"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d1054d70-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B, Variant 1 (Cat)",
+            "mutationId" : "DIS-d1054d70-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f36da500-86e6-11e9-ba55-170e7189e868",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Exotics)",
+            "mutationId" : "DIS-f36da500-86e6-11e9-ba55-170e7189e868"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9deb450c64a0d7695f580f2e82cc2fbb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "A Locus (Agouti) - a^w/a^t",
+            "mutationId" : "DIS-9deb450c64a0d7695f580f2e82cc2fbb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8b098700-911c-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Hypothyroidism (Cat)",
+            "mutationId" : "DIS-8b098700-911c-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8ebeb9b1320a1c6ceb48afd1b8b80e2c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia A (Boxer Type)",
+            "mutationId" : "DIS-8ebeb9b1320a1c6ceb48afd1b8b80e2c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-428a446bd582517852b7bb1c4e6388c8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "SD Locus (Shedding)",
+            "mutationId" : "DIS-428a446bd582517852b7bb1c4e6388c8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-95d393ce94111cb3b2cbb7e755b8ead3",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Myasthenic Syndrome (Labrador Retriever Type)",
+            "mutationId" : "DIS-95d393ce94111cb3b2cbb7e755b8ead3"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Protein-Losing Nephropathy",
+            "mutationId" : "DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-693a53f0-ce95-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cleft Palate and Syndactyly (Nova Scotia Duck Tolling Retriever Type)",
+            "mutationId" : "DIS-693a53f0-ce95-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0e53fe70-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM1 Gangliosidosis (Cat)",
+            "mutationId" : "DIS-0e53fe70-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9da4f2b0-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dihydropyrimidinase Deficiency (Cat)",
+            "mutationId" : "DIS-9da4f2b0-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-610b2d000db7783d17e141871ec709a9",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Chondrodysplasia (Karelian Bear Dog and Norwegian Elkhound Type)",
+            "mutationId" : "DIS-610b2d000db7783d17e141871ec709a9"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-320944c0-9120-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis, Type II (Cat)",
+            "mutationId" : "DIS-320944c0-9120-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f1693df0-d02e-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Intestinal Cobalamin Malabsorption (Giant Schnauzer Type)",
+            "mutationId" : "DIS-f1693df0-d02e-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fa37de50-e55f-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Oculocutaneous Albinism (Small Breed Type)",
+            "mutationId" : "DIS-fa37de50-e55f-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e1861a20-d01a-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypomyelination (Weimaraner Type)",
+            "mutationId" : "DIS-e1861a20-d01a-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c6694560-ce89-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cerebellar ataxia (Spinone Italiano type)",
+            "mutationId" : "DIS-c6694560-ce89-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-08935ad0-e5ef-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ehlers-Danlos Syndrome (Variant 2)",
+            "mutationId" : "DIS-08935ad0-e5ef-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9d90e4c0-e56f-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Diffuse Cystic Renal Dysplasia and Hepatic Fibrosis",
+            "mutationId" : "DIS-9d90e4c0-e56f-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-19417b50-e5f9-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 5 (Golden Retriever Type)",
+            "mutationId" : "DIS-19417b50-e5f9-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-18d02c10-e56e-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria Type 3 (Bulldog Type Risk Factor, Variant 3)",
+            "mutationId" : "DIS-18d02c10-e56e-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-fe641a80-e56d-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria Type 3 (Bulldog Type Risk Factor, Variant 2)",
+            "mutationId" : "DIS-fe641a80-e56d-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dc9a5a90-e56d-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria Type 3 (Bulldog Type Risk Factor, Variant 1)",
+            "mutationId" : "DIS-dc9a5a90-e56d-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c9f003d0-5cca-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dandy-Walker-Like Malformation",
+            "mutationId" : "DIS-c9f003d0-5cca-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-737eb200-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type B, Variant 3 (Cat)",
+            "mutationId" : "DIS-737eb200-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-439e8040-e5f5-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acral Mutilation Syndrome",
+            "mutationId" : "DIS-439e8040-e5f5-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f2704100-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glycogen Storage Disease, Type IV (Cat)",
+            "mutationId" : "DIS-f2704100-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ecf9f000-e5f2-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 12",
+            "mutationId" : "DIS-ecf9f000-e5f2-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0f5202b0-e5f2-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Methemoglobinemia",
+            "mutationId" : "DIS-0f5202b0-e5f2-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ef05c260-e5ee-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ehlers-Danlos Syndrome (Variant 1)",
+            "mutationId" : "DIS-ef05c260-e5ee-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f350ad90-e561-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Canine Scott Syndrome",
+            "mutationId" : "DIS-f350ad90-e561-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6c151110-e474-11e9-93b8-ab91fe9cb431",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E^h Locus (Sable, Cocker Spaniel Type)",
+            "mutationId" : "DIS-6c151110-e474-11e9-93b8-ab91fe9cb431"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f9abfa20-e5f0-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Recurrent Inflammatory Pulmonary Disease",
+            "mutationId" : "DIS-f9abfa20-e5f0-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a164a6f0-cea3-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Epilepsy (Lafora Type)",
+            "mutationId" : "DIS-a164a6f0-cea3-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-33d1fe70-e5f1-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Intervertebral Disc Disease Risk Factor and Chondrodystrophy (CDDY with IVDD)",
+            "mutationId" : "DIS-33d1fe70-e5f1-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7ccc6480-9128-11e9-95aa-fff3329d1d06",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Short Tail (Japanese Bobtail Type) (Cat)",
+            "mutationId" : "DIS-7ccc6480-9128-11e9-95aa-fff3329d1d06"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-734c2580-e5f1-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Lethal Acrodermatitis",
+            "mutationId" : "DIS-734c2580-e5f1-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e31dccc0-e5f5-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ectodermal Dysplasia, X-Linked (Dachshund Type)",
+            "mutationId" : "DIS-e31dccc0-e5f5-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9c9900e0-00f2-11ea-9a66-a130c9e675b7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Sensory Neuropathy (Border Collie Type) - B(M) Allele Detection Only",
+            "mutationId" : "DIS-9c9900e0-00f2-11ea-9a66-a130c9e675b7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5b6ecd00-e560-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Arrhythmogenic Right Ventricular Cardiomyopathy (Boxer Type)",
+            "mutationId" : "DIS-5b6ecd00-e560-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-578bd2e39148f96d8541cd74fe350e5e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuroaxonal Dystrophy (Papillon Type)",
+            "mutationId" : "DIS-578bd2e39148f96d8541cd74fe350e5e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f09ae7f0-8620-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Hyperoxaluria Type II (Cat)",
+            "mutationId" : "DIS-f09ae7f0-8620-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a8a17270-e5f2-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuroaxonal Dystrophy (Rottweiler Type)",
+            "mutationId" : "DIS-a8a17270-e5f2-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c3c05980-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Factor XII Deficiency, Variant 1 (Cat)",
+            "mutationId" : "DIS-c3c05980-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bda5470cc7cd2b1760c76f1520c3944b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 2",
+            "mutationId" : "DIS-bda5470cc7cd2b1760c76f1520c3944b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-942aeb8c44f7c7d8425cc4649e0443aa",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neonatal ataxia",
+            "mutationId" : "DIS-942aeb8c44f7c7d8425cc4649e0443aa"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f3e80d9747076a8fc91b3201d9cef2ca",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 4 (crd4/cord1)",
+            "mutationId" : "DIS-f3e80d9747076a8fc91b3201d9cef2ca"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1bd591a14cbbf27bfd92f6d690a906e8",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Trapped Neutrophil Syndrome",
+            "mutationId" : "DIS-1bd591a14cbbf27bfd92f6d690a906e8"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6095b9a9fa9eb7310f9b901c9cec47a6",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Globoid Cell Leukodystrophy (Terrier Type)",
+            "mutationId" : "DIS-6095b9a9fa9eb7310f9b901c9cec47a6"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-27ed6528f480e6f517d6ceb1461f9e7d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Benign Familial Juvenile Epilepsy",
+            "mutationId" : "DIS-27ed6528f480e6f517d6ceb1461f9e7d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3db969aad799b05d2764083700a4fb28",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria (Newfoundland Type)",
+            "mutationId" : "DIS-3db969aad799b05d2764083700a4fb28"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6c091cf963059ea9c67d79ec36026b4f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Elliptocytosis",
+            "mutationId" : "DIS-6c091cf963059ea9c67d79ec36026b4f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dd1775489672f397461afe52a57fcadf",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Inherited Myopathy of Great Danes",
+            "mutationId" : "DIS-dd1775489672f397461afe52a57fcadf"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a694e8bae0996988197ba83f0bf8a9dc",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Globoid Cell Leukodystrophy (Irish Setter Type)",
+            "mutationId" : "DIS-a694e8bae0996988197ba83f0bf8a9dc"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3190786b4a20aa63f9ba3f709788770c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Renal Cystadenocarcinoma and Nodular Dermatofibrosis",
+            "mutationId" : "DIS-3190786b4a20aa63f9ba3f709788770c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-d8c29f11810e265cba0cb01b3378562a",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neonatal Cerebellar Cortical Degeneration",
+            "mutationId" : "DIS-d8c29f11810e265cba0cb01b3378562a"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7c534f9ab4bdf93517d21903fbde45ec",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Sloughi Type)",
+            "mutationId" : "DIS-7c534f9ab4bdf93517d21903fbde45ec"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c4ff900ba73cefdbb1fe7a48fe300d45",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Bullmastiff/Mastiff Type)",
+            "mutationId" : "DIS-c4ff900ba73cefdbb1fe7a48fe300d45"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-35de0d6b50a25f1d6944ed4e072ba9a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Multifocal Retinopathy 1",
+            "mutationId" : "DIS-35de0d6b50a25f1d6944ed4e072ba9a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-31a731ce9c752120a41c8c77230050e3",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glycogen Storage Disease VII (Wachtelhund Type)",
+            "mutationId" : "DIS-31a731ce9c752120a41c8c77230050e3"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-764c40dafc0366f1766380d2da74674d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis VII (Brazilian Terrier type)",
+            "mutationId" : "DIS-764c40dafc0366f1766380d2da74674d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-56e267c2cf3498fd86f655527a7dc86e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Ciliary Dyskinesia",
+            "mutationId" : "DIS-56e267c2cf3498fd86f655527a7dc86e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6f7e7fb36d2b56436895f7438dc4196d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Dehydrogenase Deficiency",
+            "mutationId" : "DIS-6f7e7fb36d2b56436895f7438dc4196d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6cffc04dcbb15d9a96990c5ff30f89c7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Pyruvate Kinase Deficiency (Labrador Retriever Type)",
+            "mutationId" : "DIS-6cffc04dcbb15d9a96990c5ff30f89c7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-cdc8605c9c62e6db3f4db8e84d95bc0e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Greyhound Polyneuropathy",
+            "mutationId" : "DIS-cdc8605c9c62e6db3f4db8e84d95bc0e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a522bacbdd4102ec933e1ed72abd3409",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myotubular Myopathy 1",
+            "mutationId" : "DIS-a522bacbdd4102ec933e1ed72abd3409"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9af2787627e6578b0b45a23251d07f18",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Ectodermal Dysplasia, X-Linked (Shepherd Type)",
+            "mutationId" : "DIS-9af2787627e6578b0b45a23251d07f18"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9dc5ccf330f6ecf2666ff7bb1658f901",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cone Degeneration (German Shorthaired Pointer Type)",
+            "mutationId" : "DIS-9dc5ccf330f6ecf2666ff7bb1658f901"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b9d5e4a16265c10f7a9dfdbdd3f11e86",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Myotonia Congenita (Schnauzer Type)",
+            "mutationId" : "DIS-b9d5e4a16265c10f7a9dfdbdd3f11e86"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-277d71210b2035f5c36b4a1121bfe512",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital macrothrombocytopenia",
+            "mutationId" : "DIS-277d71210b2035f5c36b4a1121bfe512"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-18c4f7f2593e5e181a706b9cc212b047",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L-2-Hydroxyglutaric Aciduria (Staffordshire Bull Terrier Type)",
+            "mutationId" : "DIS-18c4f7f2593e5e181a706b9cc212b047"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ed4b40434f81a14bb63402e30a0f7582",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "D Locus (Dilute) - d^1",
+            "mutationId" : "DIS-ed4b40434f81a14bb63402e30a0f7582"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3f6aa4e6287fb5bf722f1a3a2a4c5f0e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis I",
+            "mutationId" : "DIS-3f6aa4e6287fb5bf722f1a3a2a4c5f0e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-22ad4f4581f3b8da6bc354a1df631bcd",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B (Rhodesian Ridgeback Type)",
+            "mutationId" : "DIS-22ad4f4581f3b8da6bc354a1df631bcd"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-199750fc987d8daba2f79c04f1658393",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "May-Hegglin Anomaly",
+            "mutationId" : "DIS-199750fc987d8daba2f79c04f1658393"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1872cea841653a24ee297e846622c0f1",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Congenital Myasthenic Syndrome (Old Danish Pointer Type)",
+            "mutationId" : "DIS-1872cea841653a24ee297e846622c0f1"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c9659f9a74288f82852c78bac0a0d2e7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Multifocal Retinopathy 2",
+            "mutationId" : "DIS-c9659f9a74288f82852c78bac0a0d2e7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7ecadd3bc1a12d9bf88249d96b6414f6",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Narcolepsy (Dachshund Type)",
+            "mutationId" : "DIS-7ecadd3bc1a12d9bf88249d96b6414f6"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f38ce801bdcf53276f8391ad9def58d6",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia A (German Shepherd Dog, Type 2)",
+            "mutationId" : "DIS-f38ce801bdcf53276f8391ad9def58d6"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-016464d6963fded7b6e85548ff845237",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glycogen Storage Disease VII, PFK Deficiency",
+            "mutationId" : "DIS-016464d6963fded7b6e85548ff845237"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-40470a79764e9a1f9c32c83f792facc7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hemophilia B (Cairn Terrier Type)",
+            "mutationId" : "DIS-40470a79764e9a1f9c32c83f792facc7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5837fafababa8949cee6c2cc909aad60",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 10",
+            "mutationId" : "DIS-5837fafababa8949cee6c2cc909aad60"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2a25980b29c685acf7421caeff36801b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mucopolysaccharidosis VII (Shepherd Type)",
+            "mutationId" : "DIS-2a25980b29c685acf7421caeff36801b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-94a71539d249448f0959dd44d9db1290",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Irish Setter Type)",
+            "mutationId" : "DIS-94a71539d249448f0959dd44d9db1290"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-530a46f05cca1ae7166d95149fdf1ad6",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Hyperoxaluria",
+            "mutationId" : "DIS-530a46f05cca1ae7166d95149fdf1ad6"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-25217b5c71c72a5d3eb4d0b8111f861c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polycystic kidney disease",
+            "mutationId" : "DIS-25217b5c71c72a5d3eb4d0b8111f861c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e00ec6e1fa5c91fe90a3e3459c3e32cb",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Coagulation Factor VII Deficiency",
+            "mutationId" : "DIS-e00ec6e1fa5c91fe90a3e3459c3e32cb"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4bb2ca6a699754533d6f6b8ae288514c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Lens Luxation",
+            "mutationId" : "DIS-4bb2ca6a699754533d6f6b8ae288514c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a798b9ae10e50da6170b5cbae783cf80",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Nephritis (Samoyed Type)",
+            "mutationId" : "DIS-a798b9ae10e50da6170b5cbae783cf80"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3cc3ef7d6cdfe13623936ee125479255",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Severe Combined Immunodeficiency Disease (Wetterhoun Type)",
+            "mutationId" : "DIS-3cc3ef7d6cdfe13623936ee125479255"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a8c3c5c816325a5e28c3678bf9ae8279",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hyperuricosuria",
+            "mutationId" : "DIS-a8c3c5c816325a5e28c3678bf9ae8279"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-171c66374677387093d13c18b2168191",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Severe Combined Immunodeficiency Disease (Terrier Type)",
+            "mutationId" : "DIS-171c66374677387093d13c18b2168191"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3a2b9a78163a74cc8882b043f70662c3",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glanzmann's Thrombasthenia (Otterhound Type)",
+            "mutationId" : "DIS-3a2b9a78163a74cc8882b043f70662c3"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5e5b1c1d40d54307db6fbd582035b43b",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Epidermolytic Hyperkeratosis",
+            "mutationId" : "DIS-5e5b1c1d40d54307db6fbd582035b43b"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-75177f0bb6f9caa87aa8b82fc07304de",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glycogen Storage Disease Ia",
+            "mutationId" : "DIS-75177f0bb6f9caa87aa8b82fc07304de"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-49fd8fbc7d9c3f25a1096d932b9a377f",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Progressive Rod-Cone Degeneration",
+            "mutationId" : "DIS-49fd8fbc7d9c3f25a1096d932b9a377f"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-80257a4e8c2c38d5f2a57f992bc2928e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM1 Gangliosidosis (Alaskan Husky Type)",
+            "mutationId" : "DIS-80257a4e8c2c38d5f2a57f992bc2928e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-16198d674459a31375556ce840ef0d3c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis 4A",
+            "mutationId" : "DIS-16198d674459a31375556ce840ef0d3c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a98a1f80e2e8c5082d9fcd27b48f2484",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cone Degeneration",
+            "mutationId" : "DIS-a98a1f80e2e8c5082d9fcd27b48f2484"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c53bb970-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Gangliosidosis GM2A (Cat)",
+            "mutationId" : "DIS-c53bb970-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e4d84320-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mc Locus - Blotched Variant 1 - mc^1 (Cat)",
+            "mutationId" : "DIS-e4d84320-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f93398b0-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mc Locus - Blotched Variant 2 - mc^2 (Cat)",
+            "mutationId" : "DIS-f93398b0-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polydactyly (Cat)",
+            "mutationId" : "DIS-ed931ed0-8623-11e9-8fb8-0b5b22320cab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4e0aea90-04c8-11ea-a77c-95100842977c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 4 (crd4/cord1) - BB(MM) Genotype Detection Only",
+            "mutationId" : "DIS-4e0aea90-04c8-11ea-a77c-95100842977c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-236b2960-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus - Long Hair Variant 2 - lh^2 (Cat)",
+            "mutationId" : "DIS-236b2960-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-02bc3320-e5f4-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy (Giant Schnauzer Type)",
+            "mutationId" : "DIS-02bc3320-e5f4-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5c6d9540-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus - Long Hair Variant 4 - lh^4 (Cat)",
+            "mutationId" : "DIS-5c6d9540-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0dc80700-3304-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "R Locus - Selkirk Rex Curly Variant - SR (Cat)",
+            "mutationId" : "DIS-0dc80700-3304-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-528ba270-3304-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "R Locus - Sphynx Hairless Variant - hr (Cat)",
+            "mutationId" : "DIS-528ba270-3304-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6cbddc20-3300-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus - Chocolate Variant - b (Cat)",
+            "mutationId" : "DIS-6cbddc20-3300-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1b2e9b70-32ff-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E Locus - Amber Variant - e (Cat)",
+            "mutationId" : "DIS-1b2e9b70-32ff-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-646f8ff0-861c-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Cystinuria, Type B, Variant 2 (Cat)",
+            "mutationId" : "DIS-646f8ff0-861c-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-63fae6d0-e5f0-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Glaucoma (Border Collie Type)",
+            "mutationId" : "DIS-63fae6d0-e5f0-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-749168b0-32fe-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "C Group Variant - a^c (Cat)",
+            "mutationId" : "DIS-749168b0-32fe-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0d7cfed0-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus - Long Hair Variant 1 - lh^1 (Cat)",
+            "mutationId" : "DIS-0d7cfed0-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-414eae70-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "L Locus - Long Hair Variant 3 - lh^3 (Cat)",
+            "mutationId" : "DIS-414eae70-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-dd163790-e53c-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "I Locus (Intensity)",
+            "mutationId" : "DIS-dd163790-e53c-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-c866e120-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "C Locus - Burmese Variant - c^b (Cat)",
+            "mutationId" : "DIS-c866e120-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6fb11f50-2e7d-11ea-b012-79ffff10ed66",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Idenitifcation (Peafowl)",
+            "mutationId" : "DIS-6fb11f50-2e7d-11ea-b012-79ffff10ed66"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-f89133a0-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "C Locus - Albino Variant - c (Cat)",
+            "mutationId" : "DIS-f89133a0-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-59e7d8f0-32fe-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Group Variant 2 - b^2 (Cat)",
+            "mutationId" : "DIS-59e7d8f0-32fe-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2aae7620-32fe-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Group Variant 1- b^1 (Cat)",
+            "mutationId" : "DIS-2aae7620-32fe-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7365e760-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polydactyly - Variant 1 - PD^1 (Cat)",
+            "mutationId" : "DIS-7365e760-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-0ea75890-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "C Locus - Albino Variant 2 - c^2 (Cat)",
+            "mutationId" : "DIS-0ea75890-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9fb87df0-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polydactyly - Hemingway Variant - PD^H (Cat)",
+            "mutationId" : "DIS-9fb87df0-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-8875bfe0-3306-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Polydactyly - Variant 2 - PD^2 (Cat)",
+            "mutationId" : "DIS-8875bfe0-3306-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2ca09a70-3304-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "R Locus - Devon Rex Curly Variant - re (Cat)",
+            "mutationId" : "DIS-2ca09a70-3304-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ade287f0-d031-11e9-bd44-6b68f7cc8961",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Macular Corneal Dystrophy",
+            "mutationId" : "DIS-ade287f0-d031-11e9-bd44-6b68f7cc8961"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7082ac50-3300-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus - Chocolate Variant - b (Cat)",
+            "mutationId" : "DIS-7082ac50-3300-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-5cf446a0-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Degenerative Myelopathy Early-Onset Risk Modifier (Pembroke Welsh Corgi Type)",
+            "mutationId" : "DIS-5cf446a0-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a28cdf80-1e11-11ea-9f38-4f2c096b98d9",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "EarlyBird Sex Identification (Ratites)",
+            "mutationId" : "DIS-a28cdf80-1e11-11ea-9f38-4f2c096b98d9"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-2e81cbd0-04c8-11ea-a77c-95100842977c",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Cone-Rod Dystrophy 4 (crd4/cord1) - B(M) Allele Detection Only",
+            "mutationId" : "DIS-2e81cbd0-04c8-11ea-a77c-95100842977c"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-64175d00-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Degenerative Myelopathy Type 2",
+            "mutationId" : "DIS-64175d00-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-93feda60-3304-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "W Locus - Gloves Variant - w^g (Cat)",
+            "mutationId" : "DIS-93feda60-3304-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-7e6bef30-3304-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "W Locus - Dominant White or White Spotting Variant - W or w^s (Cat)",
+            "mutationId" : "DIS-7e6bef30-3304-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a1a6aed0-3305-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "C Locus - Siamese Variant - c^s (Cat)",
+            "mutationId" : "DIS-a1a6aed0-3305-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a2cc7f90-e5f5-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Stargardt Disease",
+            "mutationId" : "DIS-a2cc7f90-e5f5-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-1fd82e70-e570-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dilated Cardiomyopathy (Doberman Pinscher Type Risk Factor, Variant 2)",
+            "mutationId" : "DIS-1fd82e70-e570-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-179d3f30-e60f-11e9-a449-2ba6fece09b5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dilated Cardiomyopathy (Doberman Pinscher Type Risk Factor, Variant 1) - (unused)",
+            "mutationId" : "DIS-179d3f30-e60f-11e9-a449-2ba6fece09b5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-42345b60-00f0-11ea-9a66-a130c9e675b7",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "M Locus (Merle) - B(M) Allele Detection Only",
+            "mutationId" : "DIS-42345b60-00f0-11ea-9a66-a130c9e675b7"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-365dc780-e5f3-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Primary Open Angle Glaucoma and Primary Lens Luxation (Shar Pei Type)",
+            "mutationId" : "DIS-365dc780-e5f3-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-81c351f0-e570-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Dilated Cardiomyopathy (Schnauzer Type)",
+            "mutationId" : "DIS-81c351f0-e570-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-02b7c690-861e-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hyperlipoproteinemia (Cat)",
+            "mutationId" : "DIS-02b7c690-861e-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-4a26275205ec77089b0886e9c0eabe90",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuroaxonal Dystrophy (Spanish Water Dog Type)",
+            "mutationId" : "DIS-4a26275205ec77089b0886e9c0eabe90"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-191ceb50-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis, Type II (Burmese Type) (Cat)",
+            "mutationId" : "DIS-191ceb50-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-b34c5ad0-861d-11e9-bc31-852d2715b69e",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "GM2 Gangliosidosis, Type II (Korat Type) (Cat)",
+            "mutationId" : "DIS-b34c5ad0-861d-11e9-bc31-852d2715b69e"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-bf936a2fa63136aa340f648066e5c1ff",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Oculocutaneous Albinism",
+            "mutationId" : "DIS-bf936a2fa63136aa340f648066e5c1ff"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-303e0520-3307-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Mc Locus - Blotched Variant 3 - mc^3 (Cat)",
+            "mutationId" : "DIS-303e0520-3307-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-9daef2a0-e5f4-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Progressive Retinal Atrophy, Rod-Cone Dysplasia 4",
+            "mutationId" : "DIS-9daef2a0-e5f4-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-e50c8c20-e5ef-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Acute Respiratory Distress Syndrome",
+            "mutationId" : "DIS-e50c8c20-e5ef-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-ae4d8b20-e5f0-11e9-b752-afa7a673a40d",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hereditary Nasal Parakeratosis (Greyhound Type)",
+            "mutationId" : "DIS-ae4d8b20-e5f0-11e9-b752-afa7a673a40d"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-6c319720-32ff-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "E Locus - Russet Variant - e^r (Cat)",
+            "mutationId" : "DIS-6c319720-32ff-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-3d819320-3300-11ea-9031-631d3aeec8ab",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "B Locus - Cinnamon Variant - b^1 (Cat)",
+            "mutationId" : "DIS-3d819320-3300-11ea-9031-631d3aeec8ab"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-a5f95c50-5ccb-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Hypomyelination (Weimaraner Type)",
+            "mutationId" : "DIS-a5f95c50-5ccb-11e9-ad53-73f49cf286a5"
+          }
+        },
+        {
+          "_index" : "mutations",
+          "_type" : "_doc",
+          "_id" : "DIS-270518c0-5ccc-11e9-ad53-73f49cf286a5",
+          "_score" : 1.0,
+          "_source" : {
+            "name" : "Neuronal Ceroid Lipofuscinosis (Tibetan Terrier Type)",
+            "mutationId" : "DIS-270518c0-5ccc-11e9-ad53-73f49cf286a5"
+          }
+        }
+      ]
+  

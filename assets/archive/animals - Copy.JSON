@@ -1,0 +1,194 @@
+[  
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "p904i24B-DdfmYgOi7UV",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-20T23:49:28",
+        "deleted" : false,
+        "lastModified" : "2019-11-20T23:49:28",
+        "createdBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+        "modifiedBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc"
+      },
+      "animalId" : "AN-19-001261",
+      "caseId" : "C-19-001256",
+      "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+      "callName" : "18-021 - Duke_V2.1",
+      "breed" : "Cavalier King Charles Spaniel",
+      "sex" : "M",
+      "birthDate" : "2019-01-01",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  },
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "qN05i24B-DdfmYgOIrXr",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-20T23:50:07",
+        "deleted" : false,
+        "lastModified" : "2019-11-20T23:50:07",
+        "createdBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+        "modifiedBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc"
+      },
+      "animalId" : "AN-19-001262",
+      "caseId" : "C-19-001257",
+      "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+      "callName" : "18-151 - Frankie_V2.1",
+      "breed" : "Dachshund",
+      "sex" : "M",
+      "birthDate" : "2019-01-01",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  },
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "qt07i24B-DdfmYgOXrVN",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-20T23:52:34",
+        "deleted" : false,
+        "lastModified" : "2019-11-20T23:52:34",
+        "createdBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+        "modifiedBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc"
+      },
+      "animalId" : "AN-19-001264",
+      "caseId" : "C-19-001259",
+      "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+      "callName" : "C-11743 - Tuff_V2.1",
+      "breed" : "Miniature Australian Shepherd",
+      "sex" : "M",
+      "birthDate" : "2019-01-01",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  },
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "3d0XYm4B-DdfmYgOm10B",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-13T00:09:04",
+        "deleted" : false,
+        "lastModified" : "2019-11-13T00:09:04",
+        "createdBy" : "auth0|U-L-2ec595b89e32a4ea204e7b44651c19d5",
+        "modifiedBy" : "auth0|U-L-2ec595b89e32a4ea204e7b44651c19d5"
+      },
+      "animalId" : "AN-19-001165",
+      "caseId" : "C-19-001160",
+      "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+      "callName" : "C-11743 - Tuff",
+      "breed" : "Miniature Australian Shepherd",
+      "sex" : "M",
+      "birthDate" : "2019-10-15",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  },
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "490rYm4B-DdfmYgOEl12",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-13T00:30:20",
+        "deleted" : false,
+        "lastModified" : "2019-11-13T00:30:20",
+        "createdBy" : "auth0|U-L-2ec595b89e32a4ea204e7b44651c19d5",
+        "modifiedBy" : "auth0|U-L-2ec595b89e32a4ea204e7b44651c19d5"
+      },
+      "animalId" : "AN-19-001169",
+      "caseId" : "C-19-001164",
+      "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+      "callName" : "18-021 - Duke",
+      "breed" : "Cavalier King Charles Spaniel",
+      "sex" : "M",
+      "birthDate" : "2019-10-08",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  },
+  {
+    "_index" : "animals",
+    "_type" : "_doc",
+    "_id" : "pt2qo24B-DdfmYgOaL5v",
+    "_score" : 6.969164,
+    "_source" : {
+      "meta" : {
+        "created" : "2019-11-25T17:44:44",
+        "deleted" : false,
+        "lastModified" : "2019-11-25T17:44:44",
+        "createdBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+        "modifiedBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf"
+      },
+      "animalId" : "AN-19-001347",
+      "caseId" : "C-19-001342",
+      "userId" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+      "callName" : "25TestDog4",
+      "breed" : "Affenpinscher",
+      "sex" : "F",
+      "birthDate" : "2001-10-26",
+      "registeredName" : "",
+      "registrationNumber" : "",
+      "litterName" : "",
+      "microchipNumber" : "",
+      "tattoo" : "",
+      "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+      "coOwners" : [ ],
+      "modifiers" : [
+        "CHC"
+      ]
+    }
+  }
+]

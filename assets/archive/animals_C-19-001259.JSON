@@ -1,0 +1,51 @@
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 6.969164,
+    "hits" : [
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
+        "_id" : "qt07i24B-DdfmYgOXrVN",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2019-11-20T23:52:34",
+            "deleted" : false,
+            "lastModified" : "2019-11-20T23:52:34",
+            "createdBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+            "modifiedBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc"
+          },
+          "animalId" : "AN-19-001264",
+          "caseId" : "C-19-001259",
+          "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+          "callName" : "C-11743 - Tuff_V2.1",
+          "breed" : "Miniature Australian Shepherd",
+          "sex" : "M",
+          "birthDate" : "2019-01-01",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CHC"
+          ]
+        }
+      }
+    ]
+  }
+}

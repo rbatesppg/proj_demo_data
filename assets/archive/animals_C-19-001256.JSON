@@ -1,0 +1,51 @@
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 6.969164,
+    "hits" : [
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
+        "_id" : "p904i24B-DdfmYgOi7UV",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2019-11-20T23:49:28",
+            "deleted" : false,
+            "lastModified" : "2019-11-20T23:49:28",
+            "createdBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+            "modifiedBy" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc"
+          },
+          "animalId" : "AN-19-001261",
+          "caseId" : "C-19-001256",
+          "userId" : "auth0|U-L-29baf7df71e5f933223fd9ae95a68ffc",
+          "callName" : "18-021 - Duke_V2.1",
+          "breed" : "Cavalier King Charles Spaniel",
+          "sex" : "M",
+          "birthDate" : "2019-01-01",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:CANIDAE:CANIS:LUPUS:FAMILIARIS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CHC"
+          ]
+        }
+      }
+    ]
+  }
+}

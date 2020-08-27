@@ -1,0 +1,57 @@
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 5.653658,
+    "hits" : [
+      {
+        "_index" : "mutations",
+        "_type" : "_doc",
+        "_id" : "DIS-37bb1ef0-5cca-11e9-ad53-73f49cf286a5",
+        "_score" : 5.653658,
+        "_source" : {
+          "mutationId" : "DIS-37bb1ef0-5cca-11e9-ad53-73f49cf286a5",
+          "name" : "Chondrodysplasia (CDPA)",
+          "inheritance" : "Autosomal Dominant",
+          "breeds" : [ ],
+          "bioMutations" : [
+            "~5 kb insertion, Chr18:20443725-20443726",
+            "G>A, Chr18:48415661"
+          ],
+          "commonSymptoms" : "",
+          "testingSummary" : "",
+          "detailedSummary" : "",
+          "testingTips" : "",
+          "references" : [ ],
+          "aliases" : [ ],
+          "genes" : [
+            "FGF4"
+          ],
+          "legacy" : false,
+          "alleles" : [
+            "AA",
+            "AB",
+            "BB"
+          ],
+          "meta" : {
+            "created" : "2019-05-16T10:35:32",
+            "createdBy" : "PRIME_DIRECTIVE",
+            "lastModified" : "2019-05-16T10:35:32",
+            "modifiedBy" : "PRIME_DIRECTIVE",
+            "deleted" : false
+          }
+        }
+      }
+    ]
+  }
+}
