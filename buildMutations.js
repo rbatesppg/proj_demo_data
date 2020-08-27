@@ -9,13 +9,17 @@ var outputPathIds = "./output/mutationsIds.json";
 var outputPathGroups = "./output/mutationsGroups.json";
 
 var index = 0;
+// stores primary mutation list for use in search query form
 var records = [];
+// correlates mutationId (DIS-###..) with designated integer indexes (0-n)
 var recordsIds = {};
+// correlates mutationId (DIS-###..) with platform type (CHC, CS, ADX, PPG)
 var recordsGroups = {};
 var mut;
 
-
-//*
+//
+// creating list recordsGroups to correlate mutId and platform type
+//
 for(mut of mutations_groups){
     recordsGroups[mut._id.substring(3)] = mut._source.modifiers;
 }
@@ -32,6 +36,7 @@ for(mut of mutations){
         platform: []
     };
     // setting values based on mutations.json results
+    //
     newEntry.id = index;
     newEntry.mutationId = mut._id;
     newEntry.name = mut._source.name;
@@ -57,12 +62,17 @@ fs.writeFile(outputPath, JSON.stringify(records), err => {
     console.log("Done writing " + index + " records to: " + outputPath);
 });
 
-
+//
+// Writing    mutId <> Index   Output Files
+//
 fs.writeFile(outputPathIds, JSON.stringify(recordsIds), err => {
     if(err) throw err;
     console.log("Done writing " + index + " records to: " + outputPathIds);
 });
 
+//
+// Writing    mutId <> Platform   Output Files
+//
 fs.writeFile(outputPathGroups, JSON.stringify(recordsGroups), err => {
     if(err) throw err;
     console.log("Done writing " + index + " records to: " + outputPathGroups);

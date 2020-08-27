@@ -1,14 +1,22 @@
 const fs = require('fs');
-
+//
+// Defining Output and Input Paths
+//
 const animals = require('./assets/animals.json');
 const mutations = require('./assets/mutations.json');
+// records.json : stores records for each animal w/ mutations
 var outputPath = "./output/records.json";
+// breedsList.json : list of all unique breeds found, for search options
+//                   also used to correlate breed to platform
 var outputPathBreeds = "./output/breedsList.json";
 
 var index = 0;
 var records = [];
 var breeds = [];
 
+//
+// currently have column headers in data, as own record
+//
 var headerRecord = {
     id: 'ID',
     caseId: 'Case ID',
@@ -19,8 +27,10 @@ for(mut of mutations){
     headerRecord.mutations[mut._source.mutationId] = mut._source.name;
 }
 records.push(headerRecord);
-//index++;
 
+//
+// creating data entry for each animal in animals.json file
+//
 for(animal of animals){
     var newEntry = {
         id: '',
@@ -46,6 +56,10 @@ for(animal of animals){
     //
     if(animal._source.caseId !== 'Case ID') {
         try{
+            // each animal 'should' have a corresponding result_interps file
+            //
+            // file convention:    result_interps_C-19-001160.JSON
+            //
             const interps = require('./assets/result_interps_' + animal._source.caseId +'.json');
             for(interp of interps){
                 newEntry.mutations[interp._source.mutationIds] = interp._source.genotype;
@@ -61,7 +75,9 @@ for(animal of animals){
     index++;
 }
 
-// writing records file
+//
+// writing records file to output
+//
 fs.writeFile(outputPath, JSON.stringify(records), err => {
     if(err) throw err;
     console.log("Done writing " + records.length + " records to: " + outputPath);
@@ -72,13 +88,6 @@ fs.writeFile(outputPath, JSON.stringify(records), err => {
 //
 // finding unique values in breeds list
 //
-/*
-console.log(breeds.sort());
-const uniqueBreedsSet = new Set(breeds);
-const uniqueBreeds = [...uniqueBreedsSet];
-uniqueBreeds.sort();
-console.log(uniqueBreeds);
-//*/
 var uniqueBreeds = [];
 breeds.sort();
 for(var i = 0; i < breeds.length; i++) {
@@ -98,6 +107,7 @@ for(var i = 0; i < breeds.length; i++) {
 var outputBreedsList = uniqueBreeds;
 //
 // writing breeds list file
+//
 fs.writeFile(outputPathBreeds, JSON.stringify(outputBreedsList), err => {
     if(err) throw err;
     console.log("Done writing " + outputBreedsList.length + " records to: " + outputPathBreeds);
