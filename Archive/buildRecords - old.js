@@ -20,10 +20,7 @@ var breeds = [];
 var headerRecord = {
     id: 'ID',
     caseId: 'Case ID',
-    animalId: 'Animal ID',
-    platform: ['Platform'],
     breed: 'Breed',
-    date: 'Date',
     mutations: {}
 };
 for(mut of mutations){
@@ -38,30 +35,17 @@ for(animal of animals){
     var newEntry = {
         id: '',
         caseId: '',
-        animalId: '',
-        platform: {},
         breed: '',
-        date: '',
-        mutations: {}
-        /*
-        mutations: {
-            mutId: '',
-            date: '',
-            genotype: ''
-        }
-        //*/
+        mutations: {},
+        platform: {}
     };
-    var dateHolder = '';
     newEntry.id = index;
     newEntry.caseId = animal._source.caseId;
-    newEntry.animalId = animal._source.animalId;
     newEntry.breed = animal._source.breed;
     newEntry.platform = animal._source.modifiers;
-    /*
     if(animal._source.modifiers.includes('CHC')){
         newEntry.platform.push('PPG');
     }
-    //*/
 
     // adding to breeds list
     var newBreed = [ newEntry.breed, newEntry.platform];
@@ -76,52 +60,15 @@ for(animal of animals){
             //
             // file convention:    result_interps_C-19-001160.JSON
             //
-            var dateIndex = 0;
             const interps = require('./assets/result_interps_' + animal._source.caseId +'.json');
             for(interp of interps){
-                //console.log(interp._source.mutationIds + ' ----' + interp._source.mutationGroupId.substring(3));
-                var interpId;
-                var testMutID= [];
-                //if((interp._source.mutationIds !== null) || (interp._source.mutationIds !== undefined)){
-                
-                testMutID = interp._source.mutationIds;
-                
-                if(testMutID === undefined){
-                    testMutID = [];
-                    testMutID.push('');
-                } else if(testMutID[0] === undefined) {
-                    testMutID[0] = '';
-                }
-
-                if(testMutID[0].substring(0,3) === "DIS"){
-                    interpId = interp._source.mutationIds;
-                } else {
-                    interpId = interp._source.mutationGroupId.substring(3);
-                }
-
-                /*
-                // testing - new ways to put date in mutations array
-                var newMut = {
-                    mutId: interpId,
-                    genotype: interp._source.genotype,
-                    date: interp._source.meta.created
-                }
-                newEntry.mutations.push(newMut);
-                //*/
-                newEntry.mutations[interpId] = interp._source.genotype;
-
-                // setting animal data from interp results date created
-                if(dateIndex == 0){
-                    dateHolder = interp._source.meta.created;
-                    dateIndex++;
-                }
+                newEntry.mutations[interp._source.mutationIds] = interp._source.genotype;
             }
         } catch(e) {
             if (e.code !== 'MODULE_NOT_FOUND') {
                 throw e;
             }
         }
-        newEntry.date = dateHolder;
     }
     
     records.push(newEntry);
