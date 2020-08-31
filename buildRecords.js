@@ -99,7 +99,8 @@ for(animal of animals){
                 } else if(interp._source.mutationGroupId.substring(3,6) === "DIS"){
                     interpId = interp._source.mutationGroupId.substring(3);
                 } else {
-                    console.log(animal._source.caseId + ' --- ' + interp._id);
+                    // logging to track down animal/interp issues
+                    //console.log(animal._source.caseId + ' --- ' + interp._id);
                 }
 
                 newEntry.mutations[interpId] = interp._source.genotype;

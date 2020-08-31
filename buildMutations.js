@@ -15,6 +15,7 @@ var records = [];
 var recordsIds = {};
 // correlates mutationId (DIS-###..) with platform type (CHC, CS, ADX, PPG)
 var recordsGroups = {};
+var recordsGroupsNames = {};
 var mut;
 
 //
@@ -22,6 +23,7 @@ var mut;
 //
 for(mut of mutations_groups){
     recordsGroups[mut._id.substring(3)] = mut._source.modifiers;
+    recordsGroupsNames[mut._source.name] = mut._source.modifiers;
 }
 
 
@@ -42,8 +44,12 @@ for(mut of mutations){
     newEntry.name = mut._source.name;
     if(recordsGroups[mut._id] != undefined){
         newEntry.platform = recordsGroups[mut._id];
+    } else if(recordsGroupsNames[mut._source.name] != undefined){
+        newEntry.platform = recordsGroupsNames[mut._source.name];
+    } else if (mut._source.name.includes("(Cat)")){
+        newEntry.platform = ['CS'];
     } else {
-        newEntry.platform = 'All';
+        newEntry.platform = ['All'];
     }
 
     // populating the mutationId <> index # map
