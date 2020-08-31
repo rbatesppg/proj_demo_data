@@ -92,22 +92,16 @@ for(animal of animals){
                 } else if(testMutID[0] === undefined) {
                     testMutID[0] = '';
                 }
-
+                
+                // ensuring all mutations added to list have valid mutID
                 if(testMutID[0].substring(0,3) === "DIS"){
-                    interpId = interp._source.mutationIds;
-                } else {
+                    interpId = testMutID[0];
+                } else if(interp._source.mutationGroupId.substring(3,6) === "DIS"){
                     interpId = interp._source.mutationGroupId.substring(3);
+                } else {
+                    console.log(animal._source.caseId + ' --- ' + interp._id);
                 }
 
-                /*
-                // testing - new ways to put date in mutations array
-                var newMut = {
-                    mutId: interpId,
-                    genotype: interp._source.genotype,
-                    date: interp._source.meta.created
-                }
-                newEntry.mutations.push(newMut);
-                //*/
                 newEntry.mutations[interpId] = interp._source.genotype;
 
                 // setting animal data from interp results date created
