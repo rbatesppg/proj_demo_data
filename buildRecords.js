@@ -104,6 +104,25 @@ for(animal of animals){
                 }
 
                 newEntry.mutations[interpId] = interp._source.genotype;
+                
+                // test outputs to characterize genotypes
+                switch(interp._source.genotype){
+                    case "AA":
+                        break;
+                    case "AB":
+                        break;
+                    case "BB":
+                        break;
+                    case "NC":
+                        break;
+                    case "Fail":
+                        break;
+                    case "??":
+                        break;
+                    default:
+                        console.log(animal._source.caseId + '----' + interpId + '----' + interp._source.genotype);
+                        break;
+                }
 
                 // setting animal data from interp results date created
                 if(dateIndex == 0){
