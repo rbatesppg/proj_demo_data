@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 0,
+        "name": "All",
+        "genotype": ["AA","AB","BB","NC","Fail","??","AAM"]
+    },
+    {
+        "id" : 1,
+        "name": "AA",
+        "genotype": ["AA"]
+    },
+    {
+        "id" : 2,
+        "name": "AB",
+        "genotype": ["AB"]
+    },
+    {
+        "id" : 3,
+        "name": "BB",
+        "genotype": ["BB"]
+    },
+    {
+        "id" : 4,
+        "name": "NC",
+        "genotype": ["NC"]
+    },
+    {
+        "id" : 5,
+        "name": "Fail",
+        "genotype": ["Fail"]
+    },
+    {
+        "id" : 6,
+        "name": "??",
+        "genotype": ["??"]
+    },
+    {
+        "id" : 7,
+        "name": "Complex",
+        "genotype": []
+    }
+]

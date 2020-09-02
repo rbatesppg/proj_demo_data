@@ -37,11 +37,13 @@ for(mut of mutations){
         name: '',
         platform: []
     };
+    //
     // setting values based on mutations.json results
     //
     newEntry.id = index;
     newEntry.mutationId = mut._id;
     newEntry.name = mut._source.name;
+    // handling Platform 
     if(recordsGroups[mut._id] != undefined){
         newEntry.platform = recordsGroups[mut._id];
     } else if(recordsGroupsNames[mut._source.name] != undefined){
