@@ -35,7 +35,7 @@ for(mut of mutations_groups){
 //
 // Writing Output Files
 //
-fs.writeFile(outputPath, JSON.stringify(records), err => {
+fs.writeFile(outputPath, JSON.stringify(records,null, 2), err => {
     if(err) throw err;
     console.log("Done writing " + index + " records to: " + outputPath);
 });

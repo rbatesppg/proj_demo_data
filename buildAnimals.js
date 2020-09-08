@@ -34,7 +34,7 @@ for(animal of animals){
 //
 // writing records file to output
 //
-fs.writeFile(outputPath, JSON.stringify(records), err => {
+fs.writeFile(outputPath, JSON.stringify(records,null,2), err => {
     if(err) throw err;
     console.log("Done writing " + records.length + " records to: " + outputPath);
 });

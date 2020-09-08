@@ -23,6 +23,14 @@ for(breed of breeds){
     newEntry.breedId = breed._source.breedId;
     newEntry.name = breed._source.name;
     newEntry.taxonomy = breed._source.taxonomy;
+
+    if(newEntry.taxonomy.includes("AVES")){
+        newEntry.platform = ["ADX"];
+    } else if(newEntry.taxonomy.includes("FELIS")){
+        newEntry.platform = ["CS"];
+    } else if(newEntry.taxonomy.includes("CANIS")){
+        newEntry.platform = ["CHC","PPG"];
+    }
     
     records.push(newEntry);
 }
@@ -30,7 +38,7 @@ for(breed of breeds){
 //
 // writing breeds list file
 //
-fs.writeFile(outputPath, JSON.stringify(records), err => {
+fs.writeFile(outputPath, JSON.stringify(records,null,2), err => {
     if(err) throw err;
     console.log("Done writing " + records.length + " records to: " + outputPath);
 });

@@ -18,7 +18,8 @@ for(resultInterp of resultInterps){
         mutationGroupId: '',
         platform: {},
         date: '',
-        genotype: ''
+        genotype: '',
+        isPublished: ''
     };
     newEntry.caseId = resultInterp._source.caseId;
     newEntry.mutationIds = resultInterp._source.mutationIds;
@@ -26,6 +27,7 @@ for(resultInterp of resultInterps){
     newEntry.platform = resultInterp._source.modifiers;
     newEntry.date = resultInterp._source.meta.created;
     newEntry.genotype = resultInterp._source.genotype;
+    newEntry.isPublished = resultInterp._source.isPublished;
     
     records.push(newEntry);
 }
@@ -33,7 +35,7 @@ for(resultInterp of resultInterps){
 //
 // writing records file to output
 //
-fs.writeFile(outputPath, JSON.stringify(records), err => {
+fs.writeFile(outputPath, JSON.stringify(records,null,2), err => {
     if(err) throw err;
     console.log("Done writing " + records.length + " records to: " + outputPath);
 });

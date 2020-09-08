@@ -37,6 +37,6 @@
     {
         "id" : 7,
         "name": "Complex",
-        "genotype": []
+        "genotype": ["Complex"]
     }
 ]
