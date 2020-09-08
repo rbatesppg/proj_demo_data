@@ -3,32 +3,32 @@ const fs = require('fs');
 // Defining Output and Input Paths
 //
 const animals = require('./assets/animals.json');
-const mutations = require('./assets/mutations.json');
-// records.json : stores records for each animal w/ mutations
-var outputPath = "./output/animals.json";
+// animals.json : stores records for each animal
+const outputPath = "./output/animalsList.json";
 
-var index = 0;
-var records = [];
+let records = [];
+let animal;
 
 //
 // creating data entry for each animal in animals.json file
 //
 for(animal of animals){
-    var newEntry = {
+    let newEntry = {
         caseId: '',
         animalId: '',
         platform: [],
         breed: '',
+        callName: '',
+        sex: '',
     };
-    var dateHolder = '';
-    newEntry.id = index;
     newEntry.caseId = animal._source.caseId;
     newEntry.animalId = animal._source.animalId;
-    newEntry.breed = animal._source.breed;
     newEntry.platform = animal._source.modifiers;
+    newEntry.breed = animal._source.breed;
+    newEntry.callName = animal._source.callName;
+    newEntry.sex = animal._source.sex;
     
     records.push(newEntry);
-    index++;
 }
 
 //

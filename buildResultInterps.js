@@ -2,29 +2,32 @@ const fs = require('fs');
 //
 // Defining Output and Input Paths
 //
-const animals = require('./assets/animals.json');
-const mutations = require('./assets/mutations.json');
-// records.json : stores records for each animal w/ mutations
-var outputPath = "./output/records.json";
+const resultInterps = require('./assets/result_interpretations.json');
+// records.json : stores records for each resultInterp w/ mutations
+const outputPath = "./output/resultInterpsList.json";
 
-var records = [];
+let records = [];
+let resultInterp;
 //
-// creating data entry for each animal in animals.json file
+// creating data entry for each resultInterp in resultInterps.json file
 //
-for(animal of animals){
-    var newEntry = {
+for(resultInterp of resultInterps){
+    let newEntry = {
         caseId: '',
+        mutationIds: {},
+        mutationGroupId: '',
         platform: {},
         date: '',
         genotype: ''
     };
-    var dateHolder = '';
-    newEntry.caseId = animal._source.caseId;
-    newEntry.platform = animal._source.modifiers;
-    newEntry.date = interp._source.meta.created;
+    newEntry.caseId = resultInterp._source.caseId;
+    newEntry.mutationIds = resultInterp._source.mutationIds;
+    newEntry.mutationGroupId = resultInterp._source.mutationGroupId;
+    newEntry.platform = resultInterp._source.modifiers;
+    newEntry.date = resultInterp._source.meta.created;
+    newEntry.genotype = resultInterp._source.genotype;
     
     records.push(newEntry);
-    index++;
 }
 
 //

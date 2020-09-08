@@ -2,51 +2,36 @@ const fs = require('fs');
 //
 // Defining Output and Input Paths
 //
-const animals = require('./assets/animals.json');
-const mutations = require('./assets/mutations.json');
-// records.json : stores records for each animal w/ mutations
-var outputPath = "./output/records.json";
-// breedsList.json : list of all unique breeds found, for search options
+const breeds = require('./assets/breeds.json');
+// breedsList.json : list of all unique breeds, for search options
 //                   also used to correlate breed to platform
-var outputPathBreeds = "./output/breedsList.json";
+const outputPath = "./output/breedsList.json";
 
-var index = 0;
-var records = [];
-var breeds = [];
+let breed;
+let records = [];
 
 //
-// creating data entry for each animal in animals.json file
+// creating data entry for each breed in breeds.json file
 //
-for(animal of animals){
-    var newEntry = {
-        id: '',
-        caseId: '',
-        animalId: '',
+for(breed of breeds){
+    let newEntry = {
+        breedId: '',
+        name: '',
         platform: {},
-        breed: '',
-        date: '',
+        taxonomy: '',
     };
-    var dateHolder = '';
-    newEntry.id = index;
-    newEntry.caseId = animal._source.caseId;
-    newEntry.animalId = animal._source.animalId;
-    newEntry.breed = animal._source.breed;
-    
-    // adding to breeds list
-    var newBreed = [ newEntry.breed, newEntry.platform];
-    breeds.push(newBreed);
-
-
+    newEntry.breedId = breed._source.breedId;
+    newEntry.name = breed._source.name;
+    newEntry.taxonomy = breed._source.taxonomy;
     
     records.push(newEntry);
-    index++;
 }
 
 //
 // writing breeds list file
 //
-fs.writeFile(outputPathBreeds, JSON.stringify(outputBreedsList), err => {
+fs.writeFile(outputPath, JSON.stringify(records), err => {
     if(err) throw err;
-    console.log("Done writing " + outputBreedsList.length + " records to: " + outputPathBreeds);
+    console.log("Done writing " + records.length + " records to: " + outputPath);
 });
 //*/
