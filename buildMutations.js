@@ -22,7 +22,7 @@ for(mut of mutations_groups){
         platform: [],
     };
     newEntry.index = index;
-    newEntry.mutationId = mut._source.mutationIds;
+    newEntry.mutationId = mut._source.mutationIds[0];
     newEntry.mutationGroupId = mut._source.mutationGroupId;
     newEntry.name = mut._source.name;
     newEntry.platform = mut._source.modifiers;

@@ -30,6 +30,8 @@ for(breed of breeds){
         newEntry.platform = ["CS"];
     } else if(newEntry.taxonomy.includes("CANIS")){
         newEntry.platform = ["CHC","PPG"];
+    } else {
+        console.log(newEntry.name + " : where does this breed belong?");
     }
     
     records.push(newEntry);

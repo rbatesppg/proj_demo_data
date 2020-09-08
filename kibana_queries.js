@@ -40,11 +40,31 @@ GET /result_interpretations/_search
 //            Animals
 //
 // ***********************************************************************
+GET /animals/_search
+{
+  "_source": ["animalId","caseId","callName","breed","sex","modifiers"], 
+  "query": {
+    "match_all": {}
+  }
+  , "size": 2000
+}
 
 
 
 
-
+// ***********************************************************************
+//
+//            Breeds
+//
+// ***********************************************************************
+GET /breeds/_search
+{
+  "_source": ["breedId","name","taxonomy"], 
+  "query": {
+    "match_all": {}
+  }
+  , "size": 800
+}
 
 
 
