@@ -3,6 +3,7 @@ const fs = require('fs');
 // Defining Output and Input Paths
 //
 const mutations_groups = require('./assets/mutation_groups.json');
+const outputPathIdtoNameMap = "./output/mutationsIdtoNameMap.json";
 const outputPathIdtoIndexMap = "./output/mutationsIdtoIndexMap.json";
 const outputPathGroupIdtoIndexMap = "./output/mutationsGroupIdtoIndexMap.json";
 const outputPath = "./output/mutationsList.json";
@@ -12,6 +13,7 @@ let index = 0;
 let records = [];
 let mut;
 
+let idtoNameMap = {};
 let idtoIndexMap = {};
 let groupIdtoIndexMap = {};
 
@@ -35,6 +37,7 @@ for(mut of mutations_groups){
     records.push(newEntry);
 
     // index/id maps
+    idtoNameMap[newEntry.mutationId] = newEntry.name;
     idtoIndexMap[newEntry.mutationId] = index;
     groupIdtoIndexMap[newEntry.mutationGroupId] = index;
 
@@ -55,6 +58,10 @@ fs.writeFile(outputPath, JSON.stringify(records,null, 2), err => {
 // 
 // Writing Maps Output Files
 //
+fs.writeFile(outputPathIdtoNameMap, JSON.stringify(idtoNameMap,null, 2), err => {
+    if(err) throw err;
+    console.log("Done writing " + index + " records to: " + outputPathIdtoNameMap);
+});
 fs.writeFile(outputPathIdtoIndexMap, JSON.stringify(idtoIndexMap,null, 2), err => {
     if(err) throw err;
     console.log("Done writing " + index + " records to: " + outputPathIdtoIndexMap);
