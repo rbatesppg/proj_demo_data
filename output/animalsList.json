@@ -5400,6 +5400,46 @@
     "sex": "M"
   },
   {
+    "caseId": "C-19-001513",
+    "animalId": "AN-19-001518",
+    "platform": [
+      "CS"
+    ],
+    "breed": "Bambino",
+    "callName": "Fluffy",
+    "sex": "F"
+  },
+  {
+    "caseId": "C-19-001255",
+    "animalId": "AN-19-001260",
+    "platform": [
+      "CS"
+    ],
+    "breed": "Abyssinian",
+    "callName": "Bootsie",
+    "sex": "F"
+  },
+  {
+    "caseId": "C-20-000027",
+    "animalId": "AN-20-000027",
+    "platform": [
+      "CS"
+    ],
+    "breed": "Sphynx",
+    "callName": "Oddette",
+    "sex": "F"
+  },
+  {
+    "caseId": "C-20-000013",
+    "animalId": "AN-20-000013",
+    "platform": [
+      "CS"
+    ],
+    "breed": "Ragdoll",
+    "callName": "MIttens2",
+    "sex": "M"
+  },
+  {
     "caseId": "C-19-001153",
     "animalId": "AN-19-001158",
     "platform": [

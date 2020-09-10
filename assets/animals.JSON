@@ -8642,6 +8642,134 @@
       {
         "_index" : "animals",
         "_type" : "_doc",
+        "_id" : "wd84NW8B-DdfmYgO3XTV",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2019-12-24T00:05:16",
+            "deleted" : false,
+            "lastModified" : "2019-12-24T00:05:16",
+            "createdBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+            "modifiedBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf"
+          },
+          "animalId" : "AN-19-001518",
+          "caseId" : "C-19-001513",
+          "userId" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+          "callName" : "Fluffy",
+          "breed" : "Bambino",
+          "sex" : "F",
+          "birthDate" : "2019-09-01",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:FELIDAE:FELIS:CATUS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CS"
+          ]
+        }
+      },
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
+        "_id" : "ot3Pim4B-DdfmYgO7LX6",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2019-11-20T21:55:12",
+            "deleted" : false,
+            "lastModified" : "2019-11-20T21:55:12",
+            "createdBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+            "modifiedBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf"
+          },
+          "animalId" : "AN-19-001260",
+          "caseId" : "C-19-001255",
+          "userId" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+          "callName" : "Bootsie",
+          "breed" : "Abyssinian",
+          "sex" : "F",
+          "birthDate" : "2019-11-19",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:FELIDAE:FELIS:CATUS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CS"
+          ]
+        }
+      },
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
+        "_id" : "DN9Yym8B-DdfmYgOU6r8",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-21T23:03:03",
+            "deleted" : false,
+            "lastModified" : "2020-01-21T23:03:03",
+            "createdBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+            "modifiedBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf"
+          },
+          "animalId" : "AN-20-000027",
+          "caseId" : "C-20-000027",
+          "userId" : "auth0|U-L-5373ce728a913d7ea781cf47d3a05354",
+          "callName" : "Oddette",
+          "breed" : "Sphynx",
+          "sex" : "F",
+          "birthDate" : "2019-01-01",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:FELIDAE:FELIS:CATUS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CS"
+          ]
+        }
+      },
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
+        "_id" : "GN-RyW8B-DdfmYgOS6Vt",
+        "_score" : 6.969164,
+        "_source" : {
+          "meta" : {
+            "created" : "2020-01-21T19:25:40",
+            "deleted" : false,
+            "lastModified" : "2020-01-21T19:25:40",
+            "createdBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf",
+            "modifiedBy" : "auth0|U-L-0bcc21f490f86e9a795c20f6a97dbccf"
+          },
+          "animalId" : "AN-20-000013",
+          "caseId" : "C-20-000013",
+          "userId" : "auth0|U-L-2ec595b89e32a4ea204e7b44651c19d5",
+          "callName" : "MIttens2",
+          "breed" : "Ragdoll",
+          "sex" : "M",
+          "birthDate" : "2018-08-14",
+          "registeredName" : "",
+          "registrationNumber" : "",
+          "litterName" : "",
+          "microchipNumber" : "",
+          "tattoo" : "",
+          "taxonomy" : "ANIMALIA:CHORDATA:MAMMALIA:CARNIVORA:FELIDAE:FELIS:CATUS",
+          "coOwners" : [ ],
+          "modifiers" : [
+            "CS"
+          ]
+        }
+      },
+      {
+        "_index" : "animals",
+        "_type" : "_doc",
         "_id" : "8932S24B-DdfmYgOV0zp",
         "_score" : 1.0,
         "_source" : {
