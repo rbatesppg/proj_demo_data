@@ -20,7 +20,7 @@ for(resultInterp of resultInterps){
         caseId: '',
         animalId: '',
         callName: '',
-        mutationIds: {},
+        mutationIds: [],
         mutationGroupId: '',
         platform: {},
         breed: '',

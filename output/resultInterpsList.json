@@ -96580,7 +96580,7 @@
     "caseId": "C-19-001507",
     "animalId": "AN-19-001512",
     "callName": "test 3.0",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -97377,7 +97377,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-88c808893dcec860ba84758b444ffc15",
     "platform": [
       "CHC"
@@ -97443,7 +97443,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-e6c035f7420aae7566b82d3be2e18bed",
     "platform": [
       "CHC"
@@ -98070,7 +98070,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ed4b40434f81a14bb63402e30a0f7582",
     "platform": [
       "CHC"
@@ -98578,7 +98578,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-14a2cc58219d9f5250832e3f0f4645eb",
     "platform": [
       "CHC"
@@ -99766,7 +99766,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
     "platform": [
       "CHC"
@@ -100206,7 +100206,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-fc9256d0-f67b-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -100663,7 +100663,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-14a2cc58219d9f5250832e3f0f4645eb",
     "platform": [
       "CHC"
@@ -101273,7 +101273,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ba44dbb48d8d9c85dc08085676f52da6",
     "platform": [
       "CHC"
@@ -101407,7 +101407,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -102170,7 +102170,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-88c808893dcec860ba84758b444ffc15",
     "platform": [
       "CHC"
@@ -102236,7 +102236,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-e6c035f7420aae7566b82d3be2e18bed",
     "platform": [
       "CHC"
@@ -102693,7 +102693,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -102844,7 +102844,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ed4b40434f81a14bb63402e30a0f7582",
     "platform": [
       "CHC"
@@ -103913,7 +103913,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-fc9256d0-f67b-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -103979,7 +103979,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -104062,7 +104062,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
     "platform": [
       "CHC"
@@ -104383,7 +104383,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-fc40969f72611e59b903860020a1c61b",
     "platform": [
       "CHC"
@@ -104449,7 +104449,7 @@
     "caseId": "C-19-001166",
     "animalId": "AN-19-001171",
     "callName": "18-152 - Spike",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -105246,7 +105246,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-14a2cc58219d9f5250832e3f0f4645eb",
     "platform": [
       "CHC"
@@ -105856,7 +105856,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ba44dbb48d8d9c85dc08085676f52da6",
     "platform": [
       "CHC"
@@ -105990,7 +105990,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -106753,7 +106753,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-88c808893dcec860ba84758b444ffc15",
     "platform": [
       "CHC"
@@ -106819,7 +106819,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-e6c035f7420aae7566b82d3be2e18bed",
     "platform": [
       "CHC"
@@ -107276,7 +107276,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -107427,7 +107427,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ed4b40434f81a14bb63402e30a0f7582",
     "platform": [
       "CHC"
@@ -108496,7 +108496,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-fc9256d0-f67b-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -108562,7 +108562,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -108645,7 +108645,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
     "platform": [
       "CHC"
@@ -108966,7 +108966,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-fc40969f72611e59b903860020a1c61b",
     "platform": [
       "CHC"
@@ -109032,7 +109032,7 @@
     "caseId": "C-19-001473",
     "animalId": "AN-19-001478",
     "callName": "18-021-Duke",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -109965,7 +109965,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-14a2cc58219d9f5250832e3f0f4645eb",
     "platform": [
       "CHC"
@@ -110660,7 +110660,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-fc40969f72611e59b903860020a1c61b",
     "platform": [
       "CHC"
@@ -110947,7 +110947,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
     "platform": [
       "CHC"
@@ -111064,7 +111064,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-fc9256d0-f67b-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -111113,7 +111113,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -111417,7 +111417,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -113693,7 +113693,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -113793,7 +113793,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ed4b40434f81a14bb63402e30a0f7582",
     "platform": [
       "CHC"
@@ -113910,7 +113910,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-e6c035f7420aae7566b82d3be2e18bed",
     "platform": [
       "CHC"
@@ -113959,7 +113959,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-88c808893dcec860ba84758b444ffc15",
     "platform": [
       "CHC"
@@ -114127,7 +114127,7 @@
     "caseId": "C-19-001509",
     "animalId": "AN-19-001514",
     "callName": "Bernie",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -114363,7 +114363,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ba44dbb48d8d9c85dc08085676f52da6",
     "platform": [
       "CHC"
@@ -114446,7 +114446,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -114716,7 +114716,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -114850,7 +114850,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-fc40969f72611e59b903860020a1c61b",
     "platform": [
       "CHC"
@@ -114882,7 +114882,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -115033,7 +115033,7 @@
     "caseId": "C-19-000991",
     "animalId": "AN-19-000996",
     "callName": "Jack",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -154416,7 +154416,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ba44dbb48d8d9c85dc08085676f52da6",
     "platform": [
       "CHC"
@@ -154516,7 +154516,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -154633,7 +154633,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-fc40969f72611e59b903860020a1c61b",
     "platform": [
       "CHC"
@@ -154665,7 +154665,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -154782,7 +154782,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -155154,7 +155154,7 @@
     "caseId": "C-19-000860",
     "animalId": "AN-19-000860",
     "callName": "Bailey",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -155288,7 +155288,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-88c808893dcec860ba84758b444ffc15",
     "platform": [
       "CHC"
@@ -155354,7 +155354,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-e6c035f7420aae7566b82d3be2e18bed",
     "platform": [
       "CHC"
@@ -155454,7 +155454,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-6fb39d50601e6d32c0520081955d3eeb",
     "platform": [
       "CHC"
@@ -155690,7 +155690,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-2c5f6190-5cc2-11e9-9d39-4fedb0db4a0a",
     "platform": [
       "CHC"
@@ -156351,7 +156351,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-f3e80d9747076a8fc91b3201d9cef2ca",
     "platform": [
       "CHC"
@@ -157794,7 +157794,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-14a2cc58219d9f5250832e3f0f4645eb",
     "platform": [
       "CHC"
@@ -158438,7 +158438,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-ed4b40434f81a14bb63402e30a0f7582",
     "platform": [
       "CHC"
@@ -159065,7 +159065,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-b646f080-d0f8-11e9-bd44-6b68f7cc8961",
     "platform": [
       "CHC"
@@ -159318,7 +159318,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-fc9256d0-f67b-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -159367,7 +159367,7 @@
     "caseId": "C-19-001510",
     "animalId": "AN-19-001515",
     "callName": "Stanley",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-4.0-1630c2b0-f67d-11e9-9116-4570b148a2d0",
     "platform": [
       "CHC"
@@ -169886,7 +169886,7 @@
     "caseId": "C-20-000013",
     "animalId": "AN-20-000013",
     "callName": "MIttens2",
-    "mutationIds": {},
+    "mutationIds": [],
     "mutationGroupId": "MG-DIS-c3e20b70-9116-11e9-95aa-fff3329d1d06",
     "platform": [
       "CS"
